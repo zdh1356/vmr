@@ -1,0 +1,52 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.0,
+    "text": "Jeg ved det ikke, jeg kan ikke se her."
+  },
+  {
+    "start": 2.0,
+    "end": 4.0,
+    "text": "Jo."
+  },
+  {
+    "start": 10.0,
+    "end": 12.0,
+    "text": "Hvor går du?"
+  },
+  {
+    "start": 12.0,
+    "end": 14.0,
+    "text": "Ja."
+  },
+  {
+    "start": 18.0,
+    "end": 20.0,
+    "text": "Ej, det her det skal lige til at have lov at se det."
+  },
+  {
+    "start": 20.0,
+    "end": 22.0,
+    "text": "Hvor går du, Maj?"
+  },
+  {
+    "start": 22.0,
+    "end": 24.0,
+    "text": "Ja."
+  },
+  {
+    "start": 30.0,
+    "end": 32.0,
+    "text": "Og så kan jeg sgu da ikke stå."
+  },
+  {
+    "start": 32.0,
+    "end": 34.0,
+    "text": "Hvor er du?"
+  },
+  {
+    "start": 34.0,
+    "end": 36.0,
+    "text": "Her."
+  }
+]

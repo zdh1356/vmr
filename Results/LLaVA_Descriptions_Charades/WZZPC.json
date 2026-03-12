@@ -1,0 +1,34 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A person is walking down a hallway."
+  },
+  {
+    "time_sec": 1,
+    "description": "A woman is opening a door."
+  },
+  {
+    "time_sec": 2,
+    "description": "A man in a green hoodie is walking down a hallway."
+  },
+  {
+    "time_sec": 3,
+    "description": "A person is bending over and touching their face."
+  },
+  {
+    "time_sec": 4,
+    "description": "A man is brushing his teeth."
+  },
+  {
+    "time_sec": 5,
+    "description": "A man is walking down a hallway."
+  },
+  {
+    "time_sec": 6,
+    "description": "A man in a green hoodie is holding a piece of paper."
+  },
+  {
+    "time_sec": 7,
+    "description": "A man in a green hoodie is holding a piece of paper."
+  }
+]

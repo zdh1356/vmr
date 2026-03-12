@@ -1,0 +1,146 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A man is standing in a room."
+  },
+  {
+    "time_sec": 1,
+    "description": "A man is standing in a room."
+  },
+  {
+    "time_sec": 2,
+    "description": "A person is bending over in a room."
+  },
+  {
+    "time_sec": 3,
+    "description": "A person is bending over to pick something up."
+  },
+  {
+    "time_sec": 4,
+    "description": "A man is sweeping the floor."
+  },
+  {
+    "time_sec": 5,
+    "description": "A man is holding a baseball bat."
+  },
+  {
+    "time_sec": 6,
+    "description": "A man is standing in a room with a bed and a book."
+  },
+  {
+    "time_sec": 7,
+    "description": "A man is standing in a room with a bed."
+  },
+  {
+    "time_sec": 8,
+    "description": "A man is holding a green object in his hand."
+  },
+  {
+    "time_sec": 9,
+    "description": "A person is bending over to pick up a green object."
+  },
+  {
+    "time_sec": 10,
+    "description": "A man is walking in a room."
+  },
+  {
+    "time_sec": 11,
+    "description": "A man is holding a book in his hand."
+  },
+  {
+    "time_sec": 12,
+    "description": "A man is holding a green object in his hand."
+  },
+  {
+    "time_sec": 13,
+    "description": "A person is holding a baseball bat."
+  },
+  {
+    "time_sec": 14,
+    "description": "A man is holding a book and a broom."
+  },
+  {
+    "time_sec": 15,
+    "description": "A man is holding a book and a green object."
+  },
+  {
+    "time_sec": 16,
+    "description": "A man is holding a green object in his hand."
+  },
+  {
+    "time_sec": 17,
+    "description": "A man is standing in a room holding a cell phone."
+  },
+  {
+    "time_sec": 18,
+    "description": "A man is holding a broom in a room."
+  },
+  {
+    "time_sec": 19,
+    "description": "A man is holding a knife."
+  },
+  {
+    "time_sec": 20,
+    "description": "A man is holding a baseball bat."
+  },
+  {
+    "time_sec": 21,
+    "description": "A man is holding a broom in a bedroom."
+  },
+  {
+    "time_sec": 22,
+    "description": "A person is holding a broom."
+  },
+  {
+    "time_sec": 23,
+    "description": "A man is holding a book and walking."
+  },
+  {
+    "time_sec": 24,
+    "description": "A man is holding a dog in his arms."
+  },
+  {
+    "time_sec": 25,
+    "description": "A man is standing in a room with a closed door."
+  },
+  {
+    "time_sec": 26,
+    "description": "A man is kneeling down in front of a door."
+  },
+  {
+    "time_sec": 27,
+    "description": "A man is standing in a bedroom, looking at a door."
+  },
+  {
+    "time_sec": 28,
+    "description": "A man is opening a door."
+  },
+  {
+    "time_sec": 29,
+    "description": "A man is standing in a doorway."
+  },
+  {
+    "time_sec": 30,
+    "description": "A man is holding a broom and standing in a doorway."
+  },
+  {
+    "time_sec": 31,
+    "description": "A man is holding a broom and standing in a doorway."
+  },
+  {
+    "time_sec": 32,
+    "description": "A man is standing in a doorway."
+  },
+  {
+    "time_sec": 33,
+    "description": "A man is walking into a bedroom."
+  },
+  {
+    "time_sec": 34,
+    "description": "A person is walking out of a bedroom."
+  },
+  {
+    "time_sec": 35,
+    "description": "A person is stepping into a room."
+  }
+]

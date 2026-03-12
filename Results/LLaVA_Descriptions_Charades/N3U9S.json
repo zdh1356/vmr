@@ -1,0 +1,62 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A person is walking in a kitchen."
+  },
+  {
+    "time_sec": 1,
+    "description": "A man is bending over to look at a shelf."
+  },
+  {
+    "time_sec": 2,
+    "description": "A man is bending over to look in a cabinet."
+  },
+  {
+    "time_sec": 3,
+    "description": "A man is sitting down and looking at a shelf."
+  },
+  {
+    "time_sec": 4,
+    "description": "A person is bending over to look at something on a shelf."
+  },
+  {
+    "time_sec": 5,
+    "description": "A person is bending over to look at something."
+  },
+  {
+    "time_sec": 6,
+    "description": "A person is bending over to look in a cabinet."
+  },
+  {
+    "time_sec": 7,
+    "description": "A person is walking in a kitchen."
+  },
+  {
+    "time_sec": 8,
+    "description": "A man is opening a drawer."
+  },
+  {
+    "time_sec": 9,
+    "description": "A man is opening a drawer."
+  },
+  {
+    "time_sec": 10,
+    "description": "A man is putting something in a cabinet."
+  },
+  {
+    "time_sec": 11,
+    "description": "A man is opening a drawer in a kitchen."
+  },
+  {
+    "time_sec": 12,
+    "description": "A man is opening a drawer."
+  },
+  {
+    "time_sec": 13,
+    "description": "A man is standing in a kitchen, holding a remote control."
+  },
+  {
+    "time_sec": 14,
+    "description": "A man drinking from a bottle."
+  }
+]

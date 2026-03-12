@@ -1,0 +1,86 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A man is kneeling on the floor."
+  },
+  {
+    "time_sec": 2,
+    "description": "A man is kneeling down on a table."
+  },
+  {
+    "time_sec": 4,
+    "description": "A man is kneeling on the floor."
+  },
+  {
+    "time_sec": 6,
+    "description": "A man is kneeling down to fix a pipe."
+  },
+  {
+    "time_sec": 8,
+    "description": "A man is kneeling on the floor to fix a heater."
+  },
+  {
+    "time_sec": 10,
+    "description": "A person is working on a floor."
+  },
+  {
+    "time_sec": 12,
+    "description": "A person is walking down a hallway."
+  },
+  {
+    "time_sec": 14,
+    "description": "A person is walking down a staircase."
+  },
+  {
+    "time_sec": 16,
+    "description": "A person is opening a door."
+  },
+  {
+    "time_sec": 18,
+    "description": "A person is opening a door."
+  },
+  {
+    "time_sec": 20,
+    "description": "A person is painting a wall."
+  },
+  {
+    "time_sec": 22,
+    "description": "A woman is sitting on the ground and painting a piece of wood."
+  },
+  {
+    "time_sec": 24,
+    "description": "A woman is sitting on a dolly and painting a wall."
+  },
+  {
+    "time_sec": 26,
+    "description": "A woman is painting a piece of wood."
+  },
+  {
+    "time_sec": 28,
+    "description": "A person is sitting on a stool and painting a piece of wood."
+  },
+  {
+    "time_sec": 30,
+    "description": "A woman is painting a wooden object."
+  },
+  {
+    "time_sec": 32,
+    "description": "A person is working on a project in a garage."
+  },
+  {
+    "time_sec": 34,
+    "description": "A person is standing in a garage, looking at a white board."
+  },
+  {
+    "time_sec": 36,
+    "description": "A person is working on a project in a garage."
+  },
+  {
+    "time_sec": 38,
+    "description": "A person is working on a project in a garage."
+  },
+  {
+    "time_sec": 40,
+    "description": "A woman is working on a project in her garage."
+  }
+]

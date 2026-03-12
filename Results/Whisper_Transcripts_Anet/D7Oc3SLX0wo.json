@@ -1,0 +1,87 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.0,
+    "text": "Halt, halt!"
+  },
+  {
+    "start": 2.0,
+    "end": 4.0,
+    "text": "Jeg har alltid det vidst, hoppa!"
+  },
+  {
+    "start": 6.0,
+    "end": 8.0,
+    "text": "Halt, halt, halt!"
+  },
+  {
+    "start": 10.0,
+    "end": 12.0,
+    "text": "BANG!"
+  },
+  {
+    "start": 12.0,
+    "end": 14.0,
+    "text": "Det er kjøtt!"
+  },
+  {
+    "start": 18.0,
+    "end": 20.0,
+    "text": "Har du det?"
+  },
+  {
+    "start": 20.0,
+    "end": 22.0,
+    "text": "Ja, det er det."
+  },
+  {
+    "start": 30.0,
+    "end": 32.0,
+    "text": "BANG!"
+  },
+  {
+    "start": 36.0,
+    "end": 38.0,
+    "text": "BANG!"
+  },
+  {
+    "start": 46.0,
+    "end": 48.0,
+    "text": "BANG!"
+  },
+  {
+    "start": 50.0,
+    "end": 52.0,
+    "text": "Fy faen!"
+  },
+  {
+    "start": 60.0,
+    "end": 62.0,
+    "text": "BANG!"
+  },
+  {
+    "start": 62.0,
+    "end": 64.0,
+    "text": "BANG!"
+  },
+  {
+    "start": 64.0,
+    "end": 66.0,
+    "text": "BANG!"
+  },
+  {
+    "start": 66.0,
+    "end": 68.0,
+    "text": "BANG!"
+  },
+  {
+    "start": 68.0,
+    "end": 70.0,
+    "text": "BANG!"
+  },
+  {
+    "start": 70.0,
+    "end": 72.0,
+    "text": "BANG!"
+  }
+]

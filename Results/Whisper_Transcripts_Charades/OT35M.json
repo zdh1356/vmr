@@ -1,0 +1,52 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.0,
+    "text": "Hello!"
+  },
+  {
+    "start": 2.0,
+    "end": 5.0,
+    "text": "I'm going to show you how to make a"
+  },
+  {
+    "start": 5.0,
+    "end": 8.0,
+    "text": "simple and easy"
+  },
+  {
+    "start": 8.0,
+    "end": 11.0,
+    "text": "paper flower."
+  },
+  {
+    "start": 11.0,
+    "end": 14.0,
+    "text": "I'm going to use a paper flower"
+  },
+  {
+    "start": 14.0,
+    "end": 17.0,
+    "text": "and a paper towel."
+  },
+  {
+    "start": 17.0,
+    "end": 20.0,
+    "text": "I'm going to use a paper towel"
+  },
+  {
+    "start": 20.0,
+    "end": 23.0,
+    "text": "and a paper towel."
+  },
+  {
+    "start": 23.0,
+    "end": 26.0,
+    "text": "I'm going to use a paper towel"
+  },
+  {
+    "start": 26.0,
+    "end": 29.0,
+    "text": "and a paper towel."
+  }
+]

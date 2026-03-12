@@ -1,0 +1,46 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A person is walking down a hallway."
+  },
+  {
+    "time_sec": 1,
+    "description": "A person is swinging a red towel."
+  },
+  {
+    "time_sec": 2,
+    "description": "A person is pulling a red robe over their head."
+  },
+  {
+    "time_sec": 3,
+    "description": "A person is holding a red blanket in front of them."
+  },
+  {
+    "time_sec": 4,
+    "description": "A man is holding a red blanket."
+  },
+  {
+    "time_sec": 5,
+    "description": "A man is holding a red blanket."
+  },
+  {
+    "time_sec": 6,
+    "description": "A man is holding a red blanket."
+  },
+  {
+    "time_sec": 7,
+    "description": "A man is standing in a hallway."
+  },
+  {
+    "time_sec": 8,
+    "description": "A man is standing in a hallway."
+  },
+  {
+    "time_sec": 9,
+    "description": "A man is standing on one foot."
+  },
+  {
+    "time_sec": 10,
+    "description": "A man is standing on a wooden floor."
+  }
+]

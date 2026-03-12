@@ -1,0 +1,86 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A man is sitting at a table."
+  },
+  {
+    "time_sec": 1,
+    "description": "A man is sitting at a table with a tree on the wall."
+  },
+  {
+    "time_sec": 2,
+    "description": "A man is sitting at a table eating."
+  },
+  {
+    "time_sec": 3,
+    "description": "A man is sitting in a chair and eating."
+  },
+  {
+    "time_sec": 4,
+    "description": "A man is sitting at a table and eating."
+  },
+  {
+    "time_sec": 5,
+    "description": "A man is sitting at a table."
+  },
+  {
+    "time_sec": 6,
+    "description": "A man is sitting in a chair."
+  },
+  {
+    "time_sec": 7,
+    "description": "A man is sitting down."
+  },
+  {
+    "time_sec": 8,
+    "description": "A man is sitting at a table."
+  },
+  {
+    "time_sec": 9,
+    "description": "A man is standing in front of a table."
+  },
+  {
+    "time_sec": 10,
+    "description": "A man is holding a bottle of water."
+  },
+  {
+    "time_sec": 11,
+    "description": "A man is holding a bottle in front of another man."
+  },
+  {
+    "time_sec": 12,
+    "description": "A man is holding a video game controller."
+  },
+  {
+    "time_sec": 13,
+    "description": "A man is standing and holding a cell phone."
+  },
+  {
+    "time_sec": 14,
+    "description": "A man is holding a bottle of water."
+  },
+  {
+    "time_sec": 15,
+    "description": "A man is holding a spoon in his hand."
+  },
+  {
+    "time_sec": 16,
+    "description": "A man is standing in a kitchen, holding a spoon."
+  },
+  {
+    "time_sec": 17,
+    "description": "A man is holding a spoon in his hand."
+  },
+  {
+    "time_sec": 18,
+    "description": "A man is holding a camera and taking a picture."
+  },
+  {
+    "time_sec": 19,
+    "description": "A man is pouring a drink into a glass."
+  },
+  {
+    "time_sec": 20,
+    "description": "A man is taking a picture of another man."
+  }
+]

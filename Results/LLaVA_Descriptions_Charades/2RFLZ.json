@@ -1,0 +1,62 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A person is sitting in a chair in front of a mirror."
+  },
+  {
+    "time_sec": 1,
+    "description": "A person is sitting in a chair in front of a mirror."
+  },
+  {
+    "time_sec": 2,
+    "description": "A person is sitting in a chair in front of a window."
+  },
+  {
+    "time_sec": 3,
+    "description": "A person is walking in a room."
+  },
+  {
+    "time_sec": 4,
+    "description": "A man is adjusting a light in a room."
+  },
+  {
+    "time_sec": 5,
+    "description": "A man is sitting at a desk and looking at a mirror."
+  },
+  {
+    "time_sec": 6,
+    "description": "A person is talking on a cell phone."
+  },
+  {
+    "time_sec": 7,
+    "description": "A man is talking on his cell phone."
+  },
+  {
+    "time_sec": 8,
+    "description": "A man is talking on a cell phone."
+  },
+  {
+    "time_sec": 9,
+    "description": "A man is holding a cell phone and looking at it."
+  },
+  {
+    "time_sec": 10,
+    "description": "A man is sitting at a desk and working on a computer."
+  },
+  {
+    "time_sec": 11,
+    "description": "A man is sitting in a chair and brushing his cat."
+  },
+  {
+    "time_sec": 12,
+    "description": "A man is sitting at a desk in front of a mirror."
+  },
+  {
+    "time_sec": 13,
+    "description": "A man is sitting in a chair and using a computer."
+  },
+  {
+    "time_sec": 14,
+    "description": "A man is using a workout machine in his home."
+  }
+]

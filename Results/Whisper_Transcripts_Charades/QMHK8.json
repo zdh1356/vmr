@@ -1,0 +1,82 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.0,
+    "text": "Hello!"
+  },
+  {
+    "start": 2.0,
+    "end": 5.0,
+    "text": "I'm going to show you how to make a"
+  },
+  {
+    "start": 5.0,
+    "end": 7.0,
+    "text": "simple and easy"
+  },
+  {
+    "start": 7.0,
+    "end": 9.0,
+    "text": "cake with"
+  },
+  {
+    "start": 9.0,
+    "end": 11.0,
+    "text": "a simple and easy cake"
+  },
+  {
+    "start": 11.0,
+    "end": 13.0,
+    "text": "recipe."
+  },
+  {
+    "start": 13.0,
+    "end": 15.0,
+    "text": "Please watch the video until the end."
+  },
+  {
+    "start": 15.0,
+    "end": 17.0,
+    "text": "Please subscribe to the channel"
+  },
+  {
+    "start": 17.0,
+    "end": 19.0,
+    "text": "and press the bell"
+  },
+  {
+    "start": 19.0,
+    "end": 21.0,
+    "text": "to receive notifications"
+  },
+  {
+    "start": 21.0,
+    "end": 23.0,
+    "text": "when I upload new videos."
+  },
+  {
+    "start": 23.0,
+    "end": 25.0,
+    "text": "Thank you for watching."
+  },
+  {
+    "start": 25.0,
+    "end": 27.0,
+    "text": "Please subscribe to the channel"
+  },
+  {
+    "start": 27.0,
+    "end": 29.0,
+    "text": "and press the bell to receive notifications"
+  },
+  {
+    "start": 29.0,
+    "end": 31.0,
+    "text": "when I upload new videos."
+  },
+  {
+    "start": 31.0,
+    "end": 33.0,
+    "text": "Thank you for watching."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.0,
+    "text": "Go!"
+  },
+  {
+    "start": 10.0,
+    "end": 12.0,
+    "text": "Yay, Mason!"
+  },
+  {
+    "start": 12.0,
+    "end": 14.0,
+    "text": "Yay, Mason!"
+  },
+  {
+    "start": 14.0,
+    "end": 16.0,
+    "text": "Mason, how old are you?"
+  },
+  {
+    "start": 16.0,
+    "end": 18.0,
+    "text": "I'm six years old."
+  },
+  {
+    "start": 18.0,
+    "end": 20.0,
+    "text": "And what grade are you going into?"
+  }
+]

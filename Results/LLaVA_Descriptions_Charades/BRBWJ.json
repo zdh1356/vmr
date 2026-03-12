@@ -1,0 +1,94 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A person is sitting on a chair."
+  },
+  {
+    "time_sec": 1,
+    "description": "A person is standing in a room."
+  },
+  {
+    "time_sec": 2,
+    "description": "A person is standing in a room."
+  },
+  {
+    "time_sec": 3,
+    "description": "A person is taking a picture of a room."
+  },
+  {
+    "time_sec": 4,
+    "description": "A man is sitting on a chair and holding a hair dryer."
+  },
+  {
+    "time_sec": 5,
+    "description": "A man is holding a yellow object in his hand."
+  },
+  {
+    "time_sec": 6,
+    "description": "A man is holding a chair in a room."
+  },
+  {
+    "time_sec": 7,
+    "description": "A man is holding a vacuum cleaner."
+  },
+  {
+    "time_sec": 8,
+    "description": "A man is putting on his shoes."
+  },
+  {
+    "time_sec": 9,
+    "description": "A man is putting on a jacket."
+  },
+  {
+    "time_sec": 10,
+    "description": "A man is putting on his shoes."
+  },
+  {
+    "time_sec": 11,
+    "description": "A man is putting on a jacket."
+  },
+  {
+    "time_sec": 12,
+    "description": "A man is putting on a jacket."
+  },
+  {
+    "time_sec": 13,
+    "description": "A man is pulling a black jacket on."
+  },
+  {
+    "time_sec": 14,
+    "description": "A man is holding a black cloth in his hand."
+  },
+  {
+    "time_sec": 15,
+    "description": "A man is holding his hand out."
+  },
+  {
+    "time_sec": 16,
+    "description": "A man is kicking a chair."
+  },
+  {
+    "time_sec": 17,
+    "description": "A man is vacuuming the floor."
+  },
+  {
+    "time_sec": 18,
+    "description": "A man is cleaning a curtain."
+  },
+  {
+    "time_sec": 19,
+    "description": "A man is holding a towel in his hand."
+  },
+  {
+    "time_sec": 20,
+    "description": "A man is standing in a room and looking down."
+  },
+  {
+    "time_sec": 21,
+    "description": "A man is standing in a room and wearing a gray shirt."
+  },
+  {
+    "time_sec": 22,
+    "description": "A man is standing in a bathroom."
+  }
+]

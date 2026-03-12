@@ -1,0 +1,170 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A man is reading a book."
+  },
+  {
+    "time_sec": 1,
+    "description": "A man is reading a book."
+  },
+  {
+    "time_sec": 2,
+    "description": "A man is reading a book."
+  },
+  {
+    "time_sec": 3,
+    "description": "A man is reading a book."
+  },
+  {
+    "time_sec": 4,
+    "description": "A man is reading a book."
+  },
+  {
+    "time_sec": 5,
+    "description": "A man is holding a book in a kitchen."
+  },
+  {
+    "time_sec": 6,
+    "description": "A man is reading a book in a kitchen."
+  },
+  {
+    "time_sec": 7,
+    "description": "A man is reading a book while holding a glass of juice."
+  },
+  {
+    "time_sec": 8,
+    "description": "A man is drinking from a cup while reading a book."
+  },
+  {
+    "time_sec": 9,
+    "description": "A man is reading a book while standing in a kitchen."
+  },
+  {
+    "time_sec": 10,
+    "description": "A man is holding a book and a cup."
+  },
+  {
+    "time_sec": 11,
+    "description": "A man is reading a book while holding a cup."
+  },
+  {
+    "time_sec": 12,
+    "description": "A man is reading a book while holding a cup."
+  },
+  {
+    "time_sec": 13,
+    "description": "A man is reading a book while holding a cup of coffee."
+  },
+  {
+    "time_sec": 14,
+    "description": "A man is reading a book while holding a cup."
+  },
+  {
+    "time_sec": 15,
+    "description": "A man is reading a book while holding a cup of coffee."
+  },
+  {
+    "time_sec": 16,
+    "description": "A man is holding a cup of ice cream."
+  },
+  {
+    "time_sec": 17,
+    "description": "A man is holding a cup of coffee."
+  },
+  {
+    "time_sec": 18,
+    "description": "A man is holding a video game controller."
+  },
+  {
+    "time_sec": 19,
+    "description": "A man is reaching for a box on the counter."
+  },
+  {
+    "time_sec": 20,
+    "description": "A man is putting a box on the counter."
+  },
+  {
+    "time_sec": 21,
+    "description": "A man is pouring a drink into a glass."
+  },
+  {
+    "time_sec": 22,
+    "description": "A man is opening a box on a kitchen counter."
+  },
+  {
+    "time_sec": 23,
+    "description": "A man is opening a box of soda."
+  },
+  {
+    "time_sec": 24,
+    "description": "A man is bending over a kitchen counter."
+  },
+  {
+    "time_sec": 25,
+    "description": "A man is bending over a counter."
+  },
+  {
+    "time_sec": 26,
+    "description": "A person is reaching for a glass on the counter."
+  },
+  {
+    "time_sec": 27,
+    "description": "A man is holding a cup of coffee."
+  },
+  {
+    "time_sec": 28,
+    "description": "A man is holding a cup of ice cream."
+  },
+  {
+    "time_sec": 29,
+    "description": "A man is holding a cup of soda."
+  },
+  {
+    "time_sec": 30,
+    "description": "A man is walking and pulling a bag behind him."
+  },
+  {
+    "time_sec": 31,
+    "description": "A man is holding a shirt in his hand."
+  },
+  {
+    "time_sec": 32,
+    "description": "A man is holding a shirt in his hand."
+  },
+  {
+    "time_sec": 33,
+    "description": "A man is holding a gray shirt in his hands."
+  },
+  {
+    "time_sec": 34,
+    "description": "A man is standing in a room with his arms out."
+  },
+  {
+    "time_sec": 35,
+    "description": "A man is playing a video game."
+  },
+  {
+    "time_sec": 36,
+    "description": "A man is playing a video game."
+  },
+  {
+    "time_sec": 37,
+    "description": "A man is dancing in a room."
+  },
+  {
+    "time_sec": 38,
+    "description": "A person is walking in a room."
+  },
+  {
+    "time_sec": 39,
+    "description": "A person is holding a cup."
+  },
+  {
+    "time_sec": 40,
+    "description": "A person is hanging a toy on the wall."
+  },
+  {
+    "time_sec": 41,
+    "description": "A person is sitting on a couch."
+  }
+]

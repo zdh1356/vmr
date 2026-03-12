@@ -1,0 +1,90 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A person is standing in a room."
+  },
+  {
+    "time_sec": 1,
+    "description": "A person is standing in a room."
+  },
+  {
+    "time_sec": 2,
+    "description": "A person is standing in a room."
+  },
+  {
+    "time_sec": 3,
+    "description": "A person is standing in a room."
+  },
+  {
+    "time_sec": 4,
+    "description": "A man is standing in a room with a guitar in the corner."
+  },
+  {
+    "time_sec": 5,
+    "description": "A man is standing in front of a mirror."
+  },
+  {
+    "time_sec": 6,
+    "description": "A person is bending over to pick something up."
+  },
+  {
+    "time_sec": 7,
+    "description": "A person is bending over a wooden cabinet."
+  },
+  {
+    "time_sec": 8,
+    "description": "A man is opening a cabinet door."
+  },
+  {
+    "time_sec": 9,
+    "description": "A person is standing in a room with a guitar."
+  },
+  {
+    "time_sec": 10,
+    "description": "A man is opening a cabinet door."
+  },
+  {
+    "time_sec": 11,
+    "description": "A man is holding a camera and taking a picture."
+  },
+  {
+    "time_sec": 12,
+    "description": "A person is playing a video game."
+  },
+  {
+    "time_sec": 13,
+    "description": "A person is standing in a room."
+  },
+  {
+    "time_sec": 14,
+    "description": "A man is playing a video game."
+  },
+  {
+    "time_sec": 15,
+    "description": "A person is standing in a room and looking at a mirror."
+  },
+  {
+    "time_sec": 16,
+    "description": "A person is taking a picture of themselves in a mirror."
+  },
+  {
+    "time_sec": 17,
+    "description": "A person is standing in front of a mirror."
+  },
+  {
+    "time_sec": 18,
+    "description": "A person is standing in front of a mirror."
+  },
+  {
+    "time_sec": 19,
+    "description": "A person is playing a video game."
+  },
+  {
+    "time_sec": 20,
+    "description": "A man is taking a picture of himself in the mirror."
+  },
+  {
+    "time_sec": 21,
+    "description": "A man is taking a picture of himself in the mirror."
+  }
+]

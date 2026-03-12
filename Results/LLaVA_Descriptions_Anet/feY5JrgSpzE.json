@@ -1,0 +1,134 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A person is holding a red object."
+  },
+  {
+    "time_sec": 2,
+    "description": "A person is kneeling down."
+  },
+  {
+    "time_sec": 4,
+    "description": "A man is doing a workout on a blue pad."
+  },
+  {
+    "time_sec": 6,
+    "description": "A man is doing a workout on a blue exercise pad."
+  },
+  {
+    "time_sec": 8,
+    "description": "A man is doing a workout on a blue pad."
+  },
+  {
+    "time_sec": 10,
+    "description": "A man is doing a sit up exercise."
+  },
+  {
+    "time_sec": 12,
+    "description": "A man is doing a push up on a blue and yellow mat."
+  },
+  {
+    "time_sec": 14,
+    "description": "A man is doing a push up on a blue pad."
+  },
+  {
+    "time_sec": 16,
+    "description": "A man is doing a workout in a gym."
+  },
+  {
+    "time_sec": 18,
+    "description": "A man is doing a sit up exercise."
+  },
+  {
+    "time_sec": 20,
+    "description": "A man is doing a push up on a blue pad."
+  },
+  {
+    "time_sec": 22,
+    "description": "A man is doing a workout on a blue and yellow floor."
+  },
+  {
+    "time_sec": 24,
+    "description": "A man is doing a push up on a blue and yellow mat."
+  },
+  {
+    "time_sec": 26,
+    "description": "A man is doing a squat exercise."
+  },
+  {
+    "time_sec": 28,
+    "description": "A man is doing a sit up exercise."
+  },
+  {
+    "time_sec": 30,
+    "description": "A man is doing a sit up exercise."
+  },
+  {
+    "time_sec": 32,
+    "description": "A man is doing a push up on a blue and yellow mat."
+  },
+  {
+    "time_sec": 34,
+    "description": "A man is doing a workout on a blue exercise pad."
+  },
+  {
+    "time_sec": 36,
+    "description": "A man is doing a squat exercise."
+  },
+  {
+    "time_sec": 38,
+    "description": "A man is doing a squat exercise."
+  },
+  {
+    "time_sec": 40,
+    "description": "A man is doing a stretching exercise in a gym."
+  },
+  {
+    "time_sec": 42,
+    "description": "A man is doing a workout on a blue exercise ball."
+  },
+  {
+    "time_sec": 44,
+    "description": "A man is doing a squat exercise."
+  },
+  {
+    "time_sec": 46,
+    "description": "A man is doing a push up on a blue exercise ball."
+  },
+  {
+    "time_sec": 48,
+    "description": "A man is doing a workout on a blue exercise mat."
+  },
+  {
+    "time_sec": 50,
+    "description": "A person is standing on one leg."
+  },
+  {
+    "time_sec": 52,
+    "description": "A man is stretching his arms out in a gym."
+  },
+  {
+    "time_sec": 54,
+    "description": "A man is doing a push-up on a wall."
+  },
+  {
+    "time_sec": 56,
+    "description": "A man is doing a push-up on a wall."
+  },
+  {
+    "time_sec": 58,
+    "description": "A man is bending over and touching a wall."
+  },
+  {
+    "time_sec": 60,
+    "description": "A man is doing a push-up on a wall."
+  },
+  {
+    "time_sec": 62,
+    "description": "A man is doing a push up on a wall."
+  },
+  {
+    "time_sec": 64,
+    "description": "A person is sitting in a chair."
+  }
+]

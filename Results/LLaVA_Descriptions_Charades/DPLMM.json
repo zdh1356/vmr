@@ -1,0 +1,66 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A person is sitting on a dresser."
+  },
+  {
+    "time_sec": 1,
+    "description": "A man is singing into a microphone."
+  },
+  {
+    "time_sec": 2,
+    "description": "A person is sitting on the floor in a closet."
+  },
+  {
+    "time_sec": 3,
+    "description": "A person is sitting on a chair in a room."
+  },
+  {
+    "time_sec": 4,
+    "description": "A person is sitting on the floor in a room."
+  },
+  {
+    "time_sec": 5,
+    "description": "A person is sitting on the floor in a closet."
+  },
+  {
+    "time_sec": 6,
+    "description": "A person is bending over to look at something."
+  },
+  {
+    "time_sec": 7,
+    "description": "A person is bending over in a closet."
+  },
+  {
+    "time_sec": 8,
+    "description": "A person is bending over to look at something."
+  },
+  {
+    "time_sec": 9,
+    "description": "A person is laying on the floor in front of a closet."
+  },
+  {
+    "time_sec": 10,
+    "description": "A person is bending over to look at something."
+  },
+  {
+    "time_sec": 11,
+    "description": "A person is sitting on the floor in a closet."
+  },
+  {
+    "time_sec": 12,
+    "description": "A woman is bending over in a closet."
+  },
+  {
+    "time_sec": 13,
+    "description": "A person is opening a closet door."
+  },
+  {
+    "time_sec": 14,
+    "description": "A person is swinging their arm in a room."
+  },
+  {
+    "time_sec": 15,
+    "description": "A person is standing in front of a mirror."
+  }
+]

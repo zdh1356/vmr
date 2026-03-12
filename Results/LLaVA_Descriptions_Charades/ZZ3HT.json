@@ -1,0 +1,146 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A person is holding a camera."
+  },
+  {
+    "time_sec": 1,
+    "description": "A person is holding a piece of metal."
+  },
+  {
+    "time_sec": 2,
+    "description": "A person is holding a green object."
+  },
+  {
+    "time_sec": 3,
+    "description": "A person is holding a camera."
+  },
+  {
+    "time_sec": 4,
+    "description": "A person is bending over to look at something."
+  },
+  {
+    "time_sec": 5,
+    "description": "A man is laying down on a train."
+  },
+  {
+    "time_sec": 6,
+    "description": "A person is cleaning a cabinet."
+  },
+  {
+    "time_sec": 7,
+    "description": "A person is reaching up to grab something."
+  },
+  {
+    "time_sec": 8,
+    "description": "A person is hanging from the ceiling."
+  },
+  {
+    "time_sec": 9,
+    "description": "A person is reaching into a cabinet."
+  },
+  {
+    "time_sec": 10,
+    "description": "A person is holding a cell phone."
+  },
+  {
+    "time_sec": 11,
+    "description": "A person is laying down on a bed."
+  },
+  {
+    "time_sec": 12,
+    "description": "A person is laying down on a car."
+  },
+  {
+    "time_sec": 13,
+    "description": "A person is laying down on a bed."
+  },
+  {
+    "time_sec": 14,
+    "description": "A person is laying down on a table."
+  },
+  {
+    "time_sec": 15,
+    "description": "A person is sitting on a bed."
+  },
+  {
+    "time_sec": 16,
+    "description": "A person is sitting on a bed."
+  },
+  {
+    "time_sec": 17,
+    "description": "A person is reaching up to grab something."
+  },
+  {
+    "time_sec": 18,
+    "description": "A person is laying on a bed."
+  },
+  {
+    "time_sec": 19,
+    "description": "A person is hanging upside down from a ceiling."
+  },
+  {
+    "time_sec": 20,
+    "description": "A man is laying down on a refrigerator."
+  },
+  {
+    "time_sec": 21,
+    "description": "A man is laying down on a train."
+  },
+  {
+    "time_sec": 22,
+    "description": "A man is laying down on a bed."
+  },
+  {
+    "time_sec": 23,
+    "description": "A man is hanging upside down in a room."
+  },
+  {
+    "time_sec": 24,
+    "description": "A person is laying down in a room."
+  },
+  {
+    "time_sec": 25,
+    "description": "A person is laying down on a bed."
+  },
+  {
+    "time_sec": 26,
+    "description": "A person is opening a door."
+  },
+  {
+    "time_sec": 27,
+    "description": "A person is bending over to pick up a piece of paper."
+  },
+  {
+    "time_sec": 28,
+    "description": "A person is holding a metal object."
+  },
+  {
+    "time_sec": 29,
+    "description": "A person is bending over to pick up a metal object."
+  },
+  {
+    "time_sec": 30,
+    "description": "A person is sitting on a bench."
+  },
+  {
+    "time_sec": 31,
+    "description": "A person is standing in a room."
+  },
+  {
+    "time_sec": 32,
+    "description": "A person is standing in a room."
+  },
+  {
+    "time_sec": 33,
+    "description": "A person is holding a cat."
+  },
+  {
+    "time_sec": 34,
+    "description": "A person is holding a bike in a room."
+  },
+  {
+    "time_sec": 35,
+    "description": "A person is pointing at something."
+  }
+]

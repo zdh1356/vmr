@@ -1,0 +1,58 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A person is sitting on a chair."
+  },
+  {
+    "time_sec": 1,
+    "description": "A person is sitting on a chair."
+  },
+  {
+    "time_sec": 2,
+    "description": "A person is standing in front of a curtain."
+  },
+  {
+    "time_sec": 3,
+    "description": "A man is holding a box in a room."
+  },
+  {
+    "time_sec": 4,
+    "description": "A man is holding a box."
+  },
+  {
+    "time_sec": 5,
+    "description": "A person is bending over to open a box."
+  },
+  {
+    "time_sec": 6,
+    "description": "A man is opening a box."
+  },
+  {
+    "time_sec": 7,
+    "description": "A man is bending over to pick up a box."
+  },
+  {
+    "time_sec": 8,
+    "description": "A man is putting on a black jacket."
+  },
+  {
+    "time_sec": 9,
+    "description": "A man is putting on a black dress."
+  },
+  {
+    "time_sec": 10,
+    "description": "A man is holding a black hairbrush."
+  },
+  {
+    "time_sec": 11,
+    "description": "A man is swinging a boxing glove at a tapestry."
+  },
+  {
+    "time_sec": 12,
+    "description": "A man is putting clothes into a bag."
+  },
+  {
+    "time_sec": 13,
+    "description": "A man is standing in front of a blue and purple curtain."
+  }
+]

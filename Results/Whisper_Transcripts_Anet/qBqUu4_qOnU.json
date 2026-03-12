@@ -1,0 +1,42 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.0,
+    "text": "Hold on, hold on, hold on."
+  },
+  {
+    "start": 2.0,
+    "end": 4.0,
+    "text": "Okay, right in front of you."
+  },
+  {
+    "start": 4.0,
+    "end": 6.0,
+    "text": "Yay!"
+  },
+  {
+    "start": 6.0,
+    "end": 8.0,
+    "text": "Again!"
+  },
+  {
+    "start": 8.0,
+    "end": 10.0,
+    "text": "Do another big one!"
+  },
+  {
+    "start": 10.0,
+    "end": 12.0,
+    "text": "Yay!"
+  },
+  {
+    "start": 12.0,
+    "end": 14.0,
+    "text": "Woo!"
+  },
+  {
+    "start": 14.0,
+    "end": 16.0,
+    "text": "Yay!"
+  }
+]

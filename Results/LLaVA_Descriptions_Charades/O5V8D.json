@@ -1,0 +1,74 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A person is standing on a staircase."
+  },
+  {
+    "time_sec": 1,
+    "description": "A person is standing on a staircase."
+  },
+  {
+    "time_sec": 2,
+    "description": "A woman is standing on a staircase."
+  },
+  {
+    "time_sec": 3,
+    "description": "A woman is walking down a staircase."
+  },
+  {
+    "time_sec": 4,
+    "description": "A woman is standing on a staircase."
+  },
+  {
+    "time_sec": 5,
+    "description": "A person is holding a camera and taking a picture."
+  },
+  {
+    "time_sec": 6,
+    "description": "A woman is taking a picture of herself."
+  },
+  {
+    "time_sec": 7,
+    "description": "A woman is holding a flashlight and taking a picture."
+  },
+  {
+    "time_sec": 8,
+    "description": "A woman is taking a picture with a flashlight."
+  },
+  {
+    "time_sec": 9,
+    "description": "A person is standing on a staircase holding a game controller."
+  },
+  {
+    "time_sec": 10,
+    "description": "A woman is taking a picture of herself."
+  },
+  {
+    "time_sec": 11,
+    "description": "A woman is taking a picture of herself in a mirror."
+  },
+  {
+    "time_sec": 12,
+    "description": "A woman is playing a video game."
+  },
+  {
+    "time_sec": 13,
+    "description": "A woman is playing a video game."
+  },
+  {
+    "time_sec": 14,
+    "description": "A woman is holding a Wii remote and playing a video game."
+  },
+  {
+    "time_sec": 15,
+    "description": "A woman is holding a Wii remote and playing a video game."
+  },
+  {
+    "time_sec": 16,
+    "description": "A person is playing a video game."
+  },
+  {
+    "time_sec": 17,
+    "description": "A person is standing on a staircase."
+  }
+]

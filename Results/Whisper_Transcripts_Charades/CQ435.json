@@ -1,0 +1,22 @@
+[
+  {
+    "start": 0.0,
+    "end": 4.0,
+    "text": "Cinema, deportes y adultos."
+  },
+  {
+    "start": 4.0,
+    "end": 10.0,
+    "text": "Con los puentes del control remoto puedes dirigirte el botón del género que desees ver"
+  },
+  {
+    "start": 10.0,
+    "end": 15.0,
+    "text": "y si presionas unir, irás directamente al primer canal de ese género."
+  },
+  {
+    "start": 15.0,
+    "end": 25.0,
+    "text": "Por ejemplo, si eliges deportes y producción nacente, te mandará directamente Sky Sports 1 que se pica en el canal de Sky Sports 1."
+  }
+]

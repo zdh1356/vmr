@@ -1,0 +1,37 @@
+[
+  {
+    "start": 0.0,
+    "end": 3.24,
+    "text": "B disc"
+  },
+  {
+    "start": 7.78,
+    "end": 9.34,
+    "text": "simulator"
+  },
+  {
+    "start": 11.1,
+    "end": 11.96,
+    "text": "test"
+  },
+  {
+    "start": 13.92,
+    "end": 15.02,
+    "text": "moulding"
+  },
+  {
+    "start": 16.46,
+    "end": 17.32,
+    "text": "string"
+  },
+  {
+    "start": 21.66,
+    "end": 23.5,
+    "text": "SD card"
+  },
+  {
+    "start": 25.9,
+    "end": 27.36,
+    "text": "LEDs"
+  }
+]

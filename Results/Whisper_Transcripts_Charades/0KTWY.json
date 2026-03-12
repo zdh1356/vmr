@@ -1,0 +1,42 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.0,
+    "text": "1 kg of chicken breast"
+  },
+  {
+    "start": 4.0,
+    "end": 6.0,
+    "text": "1 tbs of olive oil"
+  },
+  {
+    "start": 8.0,
+    "end": 10.0,
+    "text": "1 tbs of salt"
+  },
+  {
+    "start": 12.0,
+    "end": 14.0,
+    "text": "1 tbs of pepper"
+  },
+  {
+    "start": 16.0,
+    "end": 18.0,
+    "text": "1 tbs of pepper"
+  },
+  {
+    "start": 19.0,
+    "end": 21.0,
+    "text": "1 tbs of garlic"
+  },
+  {
+    "start": 23.0,
+    "end": 25.0,
+    "text": "1 tbs of salt"
+  },
+  {
+    "start": 26.0,
+    "end": 28.0,
+    "text": "1 tbs of pepper"
+  }
+]

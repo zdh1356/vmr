@@ -1,0 +1,126 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A person is holding a remote control."
+  },
+  {
+    "time_sec": 1,
+    "description": "A person is holding a metal object."
+  },
+  {
+    "time_sec": 2,
+    "description": "A person is holding a bowl."
+  },
+  {
+    "time_sec": 3,
+    "description": "A person is putting a dish into a dishwasher."
+  },
+  {
+    "time_sec": 4,
+    "description": "A person is holding a spoon."
+  },
+  {
+    "time_sec": 5,
+    "description": "A person is holding a metal pot."
+  },
+  {
+    "time_sec": 6,
+    "description": "A person is holding a basketball hoop."
+  },
+  {
+    "time_sec": 7,
+    "description": "A person is standing in front of a wall."
+  },
+  {
+    "time_sec": 8,
+    "description": "A person is putting something into a machine."
+  },
+  {
+    "time_sec": 9,
+    "description": "A person is standing next to a machine."
+  },
+  {
+    "time_sec": 10,
+    "description": "A man is looking at a red fire hydrant."
+  },
+  {
+    "time_sec": 11,
+    "description": "A person is bleeding from a cut on their arm."
+  },
+  {
+    "time_sec": 12,
+    "description": "A person is putting something on another person's head."
+  },
+  {
+    "time_sec": 13,
+    "description": "A person is pouring a liquid into a container."
+  },
+  {
+    "time_sec": 14,
+    "description": "A person is holding a cup."
+  },
+  {
+    "time_sec": 15,
+    "description": "A person is holding a cup."
+  },
+  {
+    "time_sec": 16,
+    "description": "A person is holding a spoon in their hand."
+  },
+  {
+    "time_sec": 17,
+    "description": "A man drinking from a cup."
+  },
+  {
+    "time_sec": 18,
+    "description": "A man is pouring a drink into a glass."
+  },
+  {
+    "time_sec": 19,
+    "description": "A person is standing in a kitchen."
+  },
+  {
+    "time_sec": 20,
+    "description": "A person is holding a metal bowl."
+  },
+  {
+    "time_sec": 21,
+    "description": "A person is holding a can of soda."
+  },
+  {
+    "time_sec": 22,
+    "description": "A man is holding a metal container."
+  },
+  {
+    "time_sec": 23,
+    "description": "A person is standing in a kitchen."
+  },
+  {
+    "time_sec": 24,
+    "description": "A person is holding a cup."
+  },
+  {
+    "time_sec": 25,
+    "description": "A person is standing in a kitchen."
+  },
+  {
+    "time_sec": 26,
+    "description": "A man is standing in front of a stove."
+  },
+  {
+    "time_sec": 27,
+    "description": "A man is standing in a kitchen."
+  },
+  {
+    "time_sec": 28,
+    "description": "A person is standing in front of a sink full of dirty dishes."
+  },
+  {
+    "time_sec": 29,
+    "description": "A person is standing in front of a sink."
+  },
+  {
+    "time_sec": 30,
+    "description": "A person is putting dishes in the sink."
+  }
+]

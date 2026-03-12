@@ -1,0 +1,46 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A person is holding a shirt in a closet."
+  },
+  {
+    "time_sec": 1,
+    "description": "A person is holding a shirt in a closet."
+  },
+  {
+    "time_sec": 2,
+    "description": "A man is reaching into a closet to get clothes."
+  },
+  {
+    "time_sec": 3,
+    "description": "A man is putting clothes into a closet."
+  },
+  {
+    "time_sec": 4,
+    "description": "A man is organizing clothes in a closet."
+  },
+  {
+    "time_sec": 5,
+    "description": "A man is reaching into a closet to get clothes."
+  },
+  {
+    "time_sec": 6,
+    "description": "A man is reaching into a closet to get clothes."
+  },
+  {
+    "time_sec": 7,
+    "description": "A man is reaching for clothes in a closet."
+  },
+  {
+    "time_sec": 8,
+    "description": "A man is reaching into a closet."
+  },
+  {
+    "time_sec": 9,
+    "description": "A man is looking at clothes in a closet."
+  },
+  {
+    "time_sec": 10,
+    "description": "A man is reaching into a closet to get clothes."
+  }
+]

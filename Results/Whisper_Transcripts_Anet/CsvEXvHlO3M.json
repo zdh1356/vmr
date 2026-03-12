@@ -1,0 +1,32 @@
+[
+  {
+    "start": 0.0,
+    "end": 26.28,
+    "text": "This is the beginning of anything you want."
+  },
+  {
+    "start": 26.28,
+    "end": 56.26,
+    "text": "This is the beginning of anything you want."
+  },
+  {
+    "start": 56.28,
+    "end": 56.82,
+    "text": "This is the beginning."
+  },
+  {
+    "start": 61.44,
+    "end": 67.64,
+    "text": "This is the beginning of anything you want."
+  },
+  {
+    "start": 68.38,
+    "end": 70.28,
+    "text": "This is the beginning."
+  },
+  {
+    "start": 86.28,
+    "end": 116.26,
+    "text": "This is the beginning."
+  }
+]

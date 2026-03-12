@@ -1,0 +1,32 @@
+[
+  {
+    "start": 0.0,
+    "end": 4.0,
+    "text": "1.5 kg gouda"
+  },
+  {
+    "start": 4.0,
+    "end": 10.0,
+    "text": "1 tbs vanille"
+  },
+  {
+    "start": 10.0,
+    "end": 14.0,
+    "text": "1 tbs vanille"
+  },
+  {
+    "start": 14.0,
+    "end": 20.0,
+    "text": "1 tbs vanille"
+  },
+  {
+    "start": 20.0,
+    "end": 24.0,
+    "text": "1 tbs vanille"
+  },
+  {
+    "start": 24.0,
+    "end": 28.0,
+    "text": "100 g gouda"
+  }
+]

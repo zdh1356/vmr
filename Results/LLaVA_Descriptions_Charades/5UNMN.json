@@ -1,0 +1,62 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A man is standing in front of a wall."
+  },
+  {
+    "time_sec": 1,
+    "description": "A man is bending over to look at something."
+  },
+  {
+    "time_sec": 2,
+    "description": "A man is standing in front of a white wall."
+  },
+  {
+    "time_sec": 3,
+    "description": "A man is standing in front of a white wall."
+  },
+  {
+    "time_sec": 4,
+    "description": "A man is standing in front of a white wall."
+  },
+  {
+    "time_sec": 5,
+    "description": "A man is standing in front of a white wall."
+  },
+  {
+    "time_sec": 6,
+    "description": "A person is standing in front of a white wall."
+  },
+  {
+    "time_sec": 7,
+    "description": "A man is walking in front of a chair."
+  },
+  {
+    "time_sec": 8,
+    "description": "A man is playing a video game."
+  },
+  {
+    "time_sec": 9,
+    "description": "A man is bending over to pick something up."
+  },
+  {
+    "time_sec": 10,
+    "description": "A man is sitting on a chair and cleaning a window."
+  },
+  {
+    "time_sec": 11,
+    "description": "A man is sitting in a chair and working on a computer."
+  },
+  {
+    "time_sec": 12,
+    "description": "A man is sitting at a desk and working on a computer."
+  },
+  {
+    "time_sec": 13,
+    "description": "A man is sitting at a desk and working on a computer."
+  },
+  {
+    "time_sec": 14,
+    "description": "A man is sitting at a desk and working on a computer."
+  }
+]

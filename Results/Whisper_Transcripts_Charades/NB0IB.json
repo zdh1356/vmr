@@ -1,0 +1,52 @@
+[
+  {
+    "start": 0.0,
+    "end": 6.0,
+    "text": "1 kg feta cheese"
+  },
+  {
+    "start": 6.0,
+    "end": 12.0,
+    "text": "1 kg feta cheese"
+  },
+  {
+    "start": 12.0,
+    "end": 18.0,
+    "text": "1 kg feta cheese"
+  },
+  {
+    "start": 18.0,
+    "end": 24.0,
+    "text": "1 kg feta cheese"
+  },
+  {
+    "start": 24.0,
+    "end": 30.0,
+    "text": "1 kg feta cheese"
+  },
+  {
+    "start": 30.0,
+    "end": 34.0,
+    "text": "1 kg feta"
+  },
+  {
+    "start": 34.0,
+    "end": 39.0,
+    "text": "200 ml of oil"
+  },
+  {
+    "start": 39.0,
+    "end": 45.0,
+    "text": "1 kg of feta cheese"
+  },
+  {
+    "start": 45.0,
+    "end": 51.0,
+    "text": "1 kg of feta cheese"
+  },
+  {
+    "start": 51.0,
+    "end": 54.0,
+    "text": "1 kg of feta cheese"
+  }
+]

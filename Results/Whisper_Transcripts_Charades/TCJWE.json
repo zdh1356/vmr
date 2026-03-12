@@ -1,0 +1,72 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.0,
+    "text": "I have a question, please come in."
+  },
+  {
+    "start": 2.0,
+    "end": 4.0,
+    "text": "Hello, how are you?"
+  },
+  {
+    "start": 4.0,
+    "end": 6.0,
+    "text": "I am fine, thank you."
+  },
+  {
+    "start": 6.0,
+    "end": 8.0,
+    "text": "Can I have a coffee?"
+  },
+  {
+    "start": 8.0,
+    "end": 10.0,
+    "text": "Yes, sure, you can."
+  },
+  {
+    "start": 10.0,
+    "end": 12.0,
+    "text": "Thank you."
+  },
+  {
+    "start": 12.0,
+    "end": 14.0,
+    "text": "Do you have a sandwich?"
+  },
+  {
+    "start": 14.0,
+    "end": 16.0,
+    "text": "No, thank you."
+  },
+  {
+    "start": 16.0,
+    "end": 18.0,
+    "text": "Okay, I will have the sandwich."
+  },
+  {
+    "start": 18.0,
+    "end": 20.0,
+    "text": "Thank you."
+  },
+  {
+    "start": 20.0,
+    "end": 22.0,
+    "text": "I will take the sandwich."
+  },
+  {
+    "start": 22.0,
+    "end": 24.0,
+    "text": "Thank you."
+  },
+  {
+    "start": 24.0,
+    "end": 26.0,
+    "text": "Do you have a sandwich?"
+  },
+  {
+    "start": 26.0,
+    "end": 28.0,
+    "text": "No, thank you."
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A person is standing in the kitchen."
+  },
+  {
+    "time_sec": 1,
+    "description": "A person is standing in the kitchen."
+  },
+  {
+    "time_sec": 2,
+    "description": "A person is standing in the kitchen."
+  },
+  {
+    "time_sec": 3,
+    "description": "A person is standing in the kitchen."
+  },
+  {
+    "time_sec": 4,
+    "description": "A person is standing in the kitchen."
+  },
+  {
+    "time_sec": 5,
+    "description": "A person is standing in the kitchen."
+  },
+  {
+    "time_sec": 6,
+    "description": "A person is standing in the kitchen."
+  },
+  {
+    "time_sec": 7,
+    "description": "A person is standing in the kitchen."
+  },
+  {
+    "time_sec": 8,
+    "description": "A person is standing in the kitchen."
+  },
+  {
+    "time_sec": 9,
+    "description": "A person is opening a microwave."
+  },
+  {
+    "time_sec": 10,
+    "description": "A woman is holding a bag of food in the kitchen."
+  },
+  {
+    "time_sec": 11,
+    "description": "A woman is holding a laptop computer."
+  },
+  {
+    "time_sec": 12,
+    "description": "A woman is holding a laptop computer."
+  },
+  {
+    "time_sec": 13,
+    "description": "A woman is looking at a tablet computer."
+  },
+  {
+    "time_sec": 14,
+    "description": "A woman is using a laptop in the kitchen."
+  },
+  {
+    "time_sec": 15,
+    "description": "A woman is putting food into a microwave."
+  },
+  {
+    "time_sec": 16,
+    "description": "A woman is putting something in the oven."
+  },
+  {
+    "time_sec": 17,
+    "description": "A woman is standing in a kitchen."
+  },
+  {
+    "time_sec": 18,
+    "description": "A person is using a laptop in the kitchen."
+  },
+  {
+    "time_sec": 19,
+    "description": "A person is using a laptop in the kitchen."
+  },
+  {
+    "time_sec": 20,
+    "description": "A person is using a laptop in the kitchen."
+  }
+]

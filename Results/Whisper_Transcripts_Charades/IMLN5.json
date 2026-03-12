@@ -1,0 +1,17 @@
+[
+  {
+    "start": 0.0,
+    "end": 7.0,
+    "text": "I can do this."
+  },
+  {
+    "start": 7.0,
+    "end": 15.0,
+    "text": "I can do this."
+  },
+  {
+    "start": 15.0,
+    "end": 30.0,
+    "text": "I can do this."
+  }
+]

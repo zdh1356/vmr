@@ -1,0 +1,42 @@
+[
+  {
+    "start": 0.0,
+    "end": 1.0,
+    "text": "Gracias."
+  },
+  {
+    "start": 30.0,
+    "end": 59.98,
+    "text": "¡Vamos, vamos, dale!"
+  },
+  {
+    "start": 60.0,
+    "end": 89.98,
+    "text": "¡Vamos, vamos, dale!"
+  },
+  {
+    "start": 90.0,
+    "end": 119.98,
+    "text": "¡Vamos, vamos, dale!"
+  },
+  {
+    "start": 120.0,
+    "end": 149.98,
+    "text": "¡Vamos, vamos, dale!"
+  },
+  {
+    "start": 150.0,
+    "end": 179.86,
+    "text": "¡Vamos, vamos, dale!"
+  },
+  {
+    "start": 180.0,
+    "end": 182.0,
+    "text": "¡Gracias!"
+  },
+  {
+    "start": 210.0,
+    "end": 212.0,
+    "text": "¡Gracias!"
+  }
+]

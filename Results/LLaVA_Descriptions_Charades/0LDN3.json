@@ -1,0 +1,70 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A person is walking down a hallway."
+  },
+  {
+    "time_sec": 1,
+    "description": "A person is standing in a room."
+  },
+  {
+    "time_sec": 2,
+    "description": "A person is standing in a kitchen."
+  },
+  {
+    "time_sec": 3,
+    "description": "A person is opening a door."
+  },
+  {
+    "time_sec": 4,
+    "description": "A person is walking down a hallway."
+  },
+  {
+    "time_sec": 5,
+    "description": "A person is walking on a tile floor."
+  },
+  {
+    "time_sec": 6,
+    "description": "A person is walking in a kitchen."
+  },
+  {
+    "time_sec": 7,
+    "description": "A man is holding a cell phone."
+  },
+  {
+    "time_sec": 8,
+    "description": "A man is holding a bag and looking at his phone."
+  },
+  {
+    "time_sec": 9,
+    "description": "A man is holding a cell phone."
+  },
+  {
+    "time_sec": 10,
+    "description": "A man is holding a cell phone."
+  },
+  {
+    "time_sec": 11,
+    "description": "A boy is bending over to look in a cabinet."
+  },
+  {
+    "time_sec": 12,
+    "description": "A man is holding a food item in his hand."
+  },
+  {
+    "time_sec": 13,
+    "description": "A man is holding a cell phone."
+  },
+  {
+    "time_sec": 14,
+    "description": "A man is opening a refrigerator door."
+  },
+  {
+    "time_sec": 15,
+    "description": "A man is walking in a kitchen."
+  },
+  {
+    "time_sec": 16,
+    "description": "A man is walking down a hallway."
+  }
+]

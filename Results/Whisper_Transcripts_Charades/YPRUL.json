@@ -1,0 +1,62 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.0,
+    "text": "¿Cuando pesa?"
+  },
+  {
+    "start": 2.0,
+    "end": 4.0,
+    "text": "¿Sushi?"
+  },
+  {
+    "start": 4.0,
+    "end": 6.0,
+    "text": "¿Chino?"
+  },
+  {
+    "start": 6.0,
+    "end": 8.0,
+    "text": "¿Clockis?"
+  },
+  {
+    "start": 8.0,
+    "end": 10.0,
+    "text": "Bueno, si..."
+  },
+  {
+    "start": 10.0,
+    "end": 12.0,
+    "text": "¿Clockis?"
+  },
+  {
+    "start": 12.0,
+    "end": 14.0,
+    "text": "No olvides a los locos que tú sigues por toda la ciudad para encontrar un Clockis."
+  },
+  {
+    "start": 16.0,
+    "end": 18.0,
+    "text": "¿Por qué este Clockis no me trae mi luna?"
+  },
+  {
+    "start": 18.0,
+    "end": 20.0,
+    "text": "¿En serio?"
+  },
+  {
+    "start": 20.0,
+    "end": 22.0,
+    "text": "¿En serio? ¿Dónde estamos?"
+  },
+  {
+    "start": 22.0,
+    "end": 24.0,
+    "text": "No sé llamar a nadie."
+  },
+  {
+    "start": 30.0,
+    "end": 32.0,
+    "text": "¿Por qué?"
+  }
+]

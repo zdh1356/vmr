@@ -1,0 +1,90 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A man is reading a book."
+  },
+  {
+    "time_sec": 1,
+    "description": "A man is reading a pink paper."
+  },
+  {
+    "time_sec": 2,
+    "description": "A man is holding a pink package."
+  },
+  {
+    "time_sec": 3,
+    "description": "A man is holding a toy in his hand."
+  },
+  {
+    "time_sec": 4,
+    "description": "A man is standing in front of a table with stuffed animals on it."
+  },
+  {
+    "time_sec": 5,
+    "description": "A man is running in a room."
+  },
+  {
+    "time_sec": 6,
+    "description": "A man is looking at a mirror with a bunch of stuff on it."
+  },
+  {
+    "time_sec": 7,
+    "description": "A man is looking at his reflection in the mirror."
+  },
+  {
+    "time_sec": 8,
+    "description": "A man is looking at a Hello Kitty toy."
+  },
+  {
+    "time_sec": 9,
+    "description": "A man is standing in front of a table with stuffed animals on it."
+  },
+  {
+    "time_sec": 10,
+    "description": "A man is walking past a mirror with a stuffed animal on it."
+  },
+  {
+    "time_sec": 11,
+    "description": "A man with a blue shirt and white shirt is looking down."
+  },
+  {
+    "time_sec": 12,
+    "description": "A man is leaning against a wall."
+  },
+  {
+    "time_sec": 13,
+    "description": "A man is opening a door."
+  },
+  {
+    "time_sec": 14,
+    "description": "A person is holding a book."
+  },
+  {
+    "time_sec": 15,
+    "description": "A person is opening a door."
+  },
+  {
+    "time_sec": 16,
+    "description": "A man is leaning against a wall."
+  },
+  {
+    "time_sec": 17,
+    "description": "A man is walking down a hallway."
+  },
+  {
+    "time_sec": 18,
+    "description": "A man is walking into a room."
+  },
+  {
+    "time_sec": 19,
+    "description": "A person is opening a door."
+  },
+  {
+    "time_sec": 20,
+    "description": "A person is opening a door."
+  },
+  {
+    "time_sec": 21,
+    "description": "A person is standing in a doorway."
+  }
+]

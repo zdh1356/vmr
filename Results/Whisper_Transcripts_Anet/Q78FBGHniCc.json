@@ -1,0 +1,27 @@
+[
+  {
+    "start": 0.0,
+    "end": 12.34,
+    "text": "gently"
+  },
+  {
+    "start": 12.34,
+    "end": 15.8,
+    "text": "boating"
+  },
+  {
+    "start": 105.8,
+    "end": 135.78,
+    "text": "Stavros Stavros Stavros"
+  },
+  {
+    "start": 135.8,
+    "end": 165.78,
+    "text": "Stavros Stavros"
+  },
+  {
+    "start": 165.8,
+    "end": 185.8,
+    "text": "Stavros Stavros"
+  }
+]

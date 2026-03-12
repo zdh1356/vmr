@@ -1,0 +1,106 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A man is sitting in a wheelchair."
+  },
+  {
+    "time_sec": 1,
+    "description": "A man is sitting on a toilet in a bathroom."
+  },
+  {
+    "time_sec": 2,
+    "description": "A man is sitting on a toilet."
+  },
+  {
+    "time_sec": 3,
+    "description": "A man is sitting on a chair in a bathroom."
+  },
+  {
+    "time_sec": 4,
+    "description": "A man is sitting on a toilet."
+  },
+  {
+    "time_sec": 5,
+    "description": "A man is sitting on a chair in a bathroom."
+  },
+  {
+    "time_sec": 6,
+    "description": "A man is walking into a bathroom."
+  },
+  {
+    "time_sec": 7,
+    "description": "A man is standing in a bathroom."
+  },
+  {
+    "time_sec": 8,
+    "description": "A man is putting clothes into a dryer."
+  },
+  {
+    "time_sec": 9,
+    "description": "A man is ironing clothes in a bathroom."
+  },
+  {
+    "time_sec": 10,
+    "description": "A man is ironing clothes in a bathroom."
+  },
+  {
+    "time_sec": 11,
+    "description": "A man is putting his clothes into a washing machine."
+  },
+  {
+    "time_sec": 12,
+    "description": "A man is putting clothes into a washing machine."
+  },
+  {
+    "time_sec": 13,
+    "description": "A man is standing in a bathroom."
+  },
+  {
+    "time_sec": 14,
+    "description": "A man is putting his clothes in the washing machine."
+  },
+  {
+    "time_sec": 15,
+    "description": "A man is putting clothes into a washing machine."
+  },
+  {
+    "time_sec": 16,
+    "description": "A man is putting a shirt on a hanger."
+  },
+  {
+    "time_sec": 17,
+    "description": "A man is ironing clothes in a bathroom."
+  },
+  {
+    "time_sec": 18,
+    "description": "A man is walking into a bathroom."
+  },
+  {
+    "time_sec": 19,
+    "description": "A man is standing in a bathroom."
+  },
+  {
+    "time_sec": 20,
+    "description": "A man is standing in a bathroom."
+  },
+  {
+    "time_sec": 21,
+    "description": "A man is standing in a bathroom."
+  },
+  {
+    "time_sec": 22,
+    "description": "A man is standing in a bathroom."
+  },
+  {
+    "time_sec": 23,
+    "description": "A man is standing in front of a toilet."
+  },
+  {
+    "time_sec": 24,
+    "description": "A man is standing in a bathroom."
+  },
+  {
+    "time_sec": 25,
+    "description": "A man is bending over to pick up a bag."
+  }
+]

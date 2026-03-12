@@ -1,0 +1,118 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A boy is looking into a cabinet."
+  },
+  {
+    "time_sec": 1,
+    "description": "A boy is looking at a shelf in a kitchen."
+  },
+  {
+    "time_sec": 2,
+    "description": "A boy is standing in front of a kitchen shelf."
+  },
+  {
+    "time_sec": 3,
+    "description": "A boy is reaching for a bottle on a shelf."
+  },
+  {
+    "time_sec": 4,
+    "description": "A boy is holding a beer bottle."
+  },
+  {
+    "time_sec": 5,
+    "description": "A boy is holding a marker and writing on a shelf."
+  },
+  {
+    "time_sec": 6,
+    "description": "A boy is looking at a camera while holding a camera."
+  },
+  {
+    "time_sec": 7,
+    "description": "A man is working on a sink."
+  },
+  {
+    "time_sec": 8,
+    "description": "A man is working on a machine."
+  },
+  {
+    "time_sec": 9,
+    "description": "A man is opening a cabinet door."
+  },
+  {
+    "time_sec": 10,
+    "description": "A man is looking at a shelf in a kitchen."
+  },
+  {
+    "time_sec": 11,
+    "description": "A boy is looking at a refrigerator."
+  },
+  {
+    "time_sec": 12,
+    "description": "A person is opening a beer bottle."
+  },
+  {
+    "time_sec": 13,
+    "description": "A person is pouring a bottle of beer into a glass."
+  },
+  {
+    "time_sec": 14,
+    "description": "A boy is opening a bottle of beer."
+  },
+  {
+    "time_sec": 15,
+    "description": "A boy is opening a bottle of soda."
+  },
+  {
+    "time_sec": 16,
+    "description": "A person is holding a bottle of soda."
+  },
+  {
+    "time_sec": 17,
+    "description": "A man is opening a bottle of wine."
+  },
+  {
+    "time_sec": 18,
+    "description": "A person is cleaning a shelf."
+  },
+  {
+    "time_sec": 19,
+    "description": "A boy is making a sandwich."
+  },
+  {
+    "time_sec": 20,
+    "description": "A boy is looking at the dishes on the shelf."
+  },
+  {
+    "time_sec": 21,
+    "description": "A boy is sitting at a kitchen counter."
+  },
+  {
+    "time_sec": 22,
+    "description": "A boy is typing on a computer."
+  },
+  {
+    "time_sec": 23,
+    "description": "A boy is looking at a microwave."
+  },
+  {
+    "time_sec": 24,
+    "description": "A boy is playing a video game."
+  },
+  {
+    "time_sec": 25,
+    "description": "A boy is walking down a hallway."
+  },
+  {
+    "time_sec": 26,
+    "description": "A boy is pointing at a refrigerator."
+  },
+  {
+    "time_sec": 27,
+    "description": "A man is adjusting a thermometer."
+  },
+  {
+    "time_sec": 28,
+    "description": "A man is standing in front of a refrigerator."
+  }
+]

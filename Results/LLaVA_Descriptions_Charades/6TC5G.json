@@ -1,0 +1,74 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A person is walking down a hallway."
+  },
+  {
+    "time_sec": 1,
+    "description": "A person is pulling a black bag down a hallway."
+  },
+  {
+    "time_sec": 2,
+    "description": "A woman is holding a bag and a coat."
+  },
+  {
+    "time_sec": 3,
+    "description": "A woman is holding a bag and a coat while standing in a hallway."
+  },
+  {
+    "time_sec": 4,
+    "description": "A woman is holding a red object and pointing it at a door."
+  },
+  {
+    "time_sec": 5,
+    "description": "A woman is opening a door."
+  },
+  {
+    "time_sec": 6,
+    "description": "A woman is opening a door."
+  },
+  {
+    "time_sec": 7,
+    "description": "A woman is opening a door."
+  },
+  {
+    "time_sec": 8,
+    "description": "A woman is holding a black umbrella."
+  },
+  {
+    "time_sec": 9,
+    "description": "A woman is hanging a black item on a coat rack."
+  },
+  {
+    "time_sec": 10,
+    "description": "A person is walking down a hallway."
+  },
+  {
+    "time_sec": 11,
+    "description": "A woman is holding a bag and opening the door."
+  },
+  {
+    "time_sec": 12,
+    "description": "A woman is holding a coat and putting it on a hanger."
+  },
+  {
+    "time_sec": 13,
+    "description": "A woman is hanging up a black jacket."
+  },
+  {
+    "time_sec": 14,
+    "description": "A woman is walking down a hallway."
+  },
+  {
+    "time_sec": 15,
+    "description": "A woman is holding a pillow in her hand."
+  },
+  {
+    "time_sec": 16,
+    "description": "A woman is playing a video game."
+  },
+  {
+    "time_sec": 17,
+    "description": "A man is opening a door."
+  }
+]

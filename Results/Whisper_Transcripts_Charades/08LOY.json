@@ -1,0 +1,27 @@
+[
+  {
+    "start": 0.0,
+    "end": 10.0,
+    "text": "Um, a picture."
+  },
+  {
+    "start": 10.0,
+    "end": 21.0,
+    "text": "Alright, this is the mayor."
+  },
+  {
+    "start": 21.0,
+    "end": 25.0,
+    "text": "The person's putting a picture on the shelf."
+  },
+  {
+    "start": 25.0,
+    "end": 26.0,
+    "text": "Okay, I got you."
+  },
+  {
+    "start": 26.0,
+    "end": 28.0,
+    "text": "I think you should film it."
+  }
+]

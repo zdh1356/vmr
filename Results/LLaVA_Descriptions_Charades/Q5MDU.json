@@ -1,0 +1,42 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A person is putting clothes into a closet."
+  },
+  {
+    "time_sec": 1,
+    "description": "A person is laying down on a shelf."
+  },
+  {
+    "time_sec": 2,
+    "description": "A person is standing in front of a mirror."
+  },
+  {
+    "time_sec": 3,
+    "description": "A man is bending over a dresser."
+  },
+  {
+    "time_sec": 4,
+    "description": "A man is bending over a dresser."
+  },
+  {
+    "time_sec": 5,
+    "description": "A person is reaching into a drawer."
+  },
+  {
+    "time_sec": 6,
+    "description": "A person is standing in front of a dresser."
+  },
+  {
+    "time_sec": 7,
+    "description": "A person is taking a picture of a dresser."
+  },
+  {
+    "time_sec": 8,
+    "description": "A person is standing in a doorway."
+  },
+  {
+    "time_sec": 9,
+    "description": "A person is putting clothes into a closet."
+  }
+]

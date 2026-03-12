@@ -1,0 +1,42 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.0,
+    "text": "Shhhhhh"
+  },
+  {
+    "start": 2.0,
+    "end": 4.0,
+    "text": "Shhhhhh"
+  },
+  {
+    "start": 20.0,
+    "end": 21.0,
+    "text": "Ah!"
+  },
+  {
+    "start": 21.0,
+    "end": 23.0,
+    "text": "Atschoo!"
+  },
+  {
+    "start": 23.0,
+    "end": 25.0,
+    "text": "Atschoo!"
+  },
+  {
+    "start": 25.0,
+    "end": 27.0,
+    "text": "Shhhhhh"
+  },
+  {
+    "start": 27.0,
+    "end": 29.0,
+    "text": "Shhhhhh"
+  },
+  {
+    "start": 29.0,
+    "end": 31.0,
+    "text": "Shhhhhh"
+  }
+]

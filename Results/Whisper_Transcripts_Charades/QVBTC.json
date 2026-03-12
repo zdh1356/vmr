@@ -1,0 +1,82 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.0,
+    "text": "Hello everyone!"
+  },
+  {
+    "start": 2.0,
+    "end": 5.0,
+    "text": "Today I will show you how to make a"
+  },
+  {
+    "start": 5.0,
+    "end": 7.0,
+    "text": "delicious and delicious"
+  },
+  {
+    "start": 7.0,
+    "end": 9.0,
+    "text": "chicken breast"
+  },
+  {
+    "start": 9.0,
+    "end": 11.0,
+    "text": "with a simple recipe."
+  },
+  {
+    "start": 11.0,
+    "end": 13.0,
+    "text": "First,"
+  },
+  {
+    "start": 13.0,
+    "end": 15.0,
+    "text": "wash the chicken breast"
+  },
+  {
+    "start": 15.0,
+    "end": 17.0,
+    "text": "with water."
+  },
+  {
+    "start": 17.0,
+    "end": 19.0,
+    "text": "Then,"
+  },
+  {
+    "start": 19.0,
+    "end": 21.0,
+    "text": "cut the chicken breast into small pieces."
+  },
+  {
+    "start": 21.0,
+    "end": 23.0,
+    "text": "Then,"
+  },
+  {
+    "start": 23.0,
+    "end": 25.0,
+    "text": "cut the chicken breast into small pieces."
+  },
+  {
+    "start": 25.0,
+    "end": 27.0,
+    "text": "Then,"
+  },
+  {
+    "start": 27.0,
+    "end": 30.0,
+    "text": "cut the chicken breast into small pieces."
+  },
+  {
+    "start": 30.0,
+    "end": 32.0,
+    "text": "Then,"
+  },
+  {
+    "start": 32.0,
+    "end": 34.0,
+    "text": "cut the chicken breast into small pieces."
+  }
+]

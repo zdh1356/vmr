@@ -1,0 +1,82 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.0,
+    "text": "Hello!"
+  },
+  {
+    "start": 2.0,
+    "end": 5.0,
+    "text": "I'm going to show you how to make a"
+  },
+  {
+    "start": 5.0,
+    "end": 7.0,
+    "text": "simple and easy"
+  },
+  {
+    "start": 7.0,
+    "end": 9.0,
+    "text": "Christmas tree."
+  },
+  {
+    "start": 9.0,
+    "end": 11.0,
+    "text": "I'm going to use a"
+  },
+  {
+    "start": 11.0,
+    "end": 13.0,
+    "text": "small piece of wood"
+  },
+  {
+    "start": 13.0,
+    "end": 15.0,
+    "text": "and a piece of wood"
+  },
+  {
+    "start": 15.0,
+    "end": 17.0,
+    "text": "to make a tree."
+  },
+  {
+    "start": 17.0,
+    "end": 19.0,
+    "text": "I'm going to use a"
+  },
+  {
+    "start": 19.0,
+    "end": 21.0,
+    "text": "small piece of wood"
+  },
+  {
+    "start": 21.0,
+    "end": 23.0,
+    "text": "and a piece of wood"
+  },
+  {
+    "start": 23.0,
+    "end": 25.0,
+    "text": "to make a tree."
+  },
+  {
+    "start": 25.0,
+    "end": 27.0,
+    "text": "I'm going to use a"
+  },
+  {
+    "start": 27.0,
+    "end": 30.0,
+    "text": "small piece of wood"
+  },
+  {
+    "start": 30.0,
+    "end": 32.0,
+    "text": "and a piece of wood"
+  },
+  {
+    "start": 32.0,
+    "end": 34.0,
+    "text": "to make a tree."
+  }
+]

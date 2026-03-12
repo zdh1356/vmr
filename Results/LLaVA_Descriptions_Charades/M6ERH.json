@@ -1,0 +1,134 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A person is walking in a room."
+  },
+  {
+    "time_sec": 1,
+    "description": "A woman is standing in a room."
+  },
+  {
+    "time_sec": 2,
+    "description": "A woman is standing in a room."
+  },
+  {
+    "time_sec": 3,
+    "description": "A woman is playing a video game."
+  },
+  {
+    "time_sec": 4,
+    "description": "A woman is holding a frisbee."
+  },
+  {
+    "time_sec": 5,
+    "description": "A woman is holding a green drink in her hand."
+  },
+  {
+    "time_sec": 6,
+    "description": "A woman is holding a bottle of wine."
+  },
+  {
+    "time_sec": 7,
+    "description": "A woman is holding a jar of pickles."
+  },
+  {
+    "time_sec": 8,
+    "description": "A woman is holding a bag of chips."
+  },
+  {
+    "time_sec": 9,
+    "description": "A woman is holding a jar of pickles."
+  },
+  {
+    "time_sec": 10,
+    "description": "A woman is holding a jar of pickles."
+  },
+  {
+    "time_sec": 11,
+    "description": "A woman is holding a jar of pickles."
+  },
+  {
+    "time_sec": 12,
+    "description": "A person is eating a pickle."
+  },
+  {
+    "time_sec": 13,
+    "description": "A woman is holding a jar of pickles."
+  },
+  {
+    "time_sec": 14,
+    "description": "A woman is holding a jar of pickles."
+  },
+  {
+    "time_sec": 15,
+    "description": "A woman is holding a jar of pickles."
+  },
+  {
+    "time_sec": 16,
+    "description": "A woman is holding a jar of pickles."
+  },
+  {
+    "time_sec": 17,
+    "description": "A woman holding a jar of pickles."
+  },
+  {
+    "time_sec": 18,
+    "description": "A woman is holding a jar of pickles."
+  },
+  {
+    "time_sec": 19,
+    "description": "A woman is eating pickles."
+  },
+  {
+    "time_sec": 20,
+    "description": "A woman is pouring a jar of pickles into a jar."
+  },
+  {
+    "time_sec": 21,
+    "description": "A woman is putting olives into a jar."
+  },
+  {
+    "time_sec": 22,
+    "description": "A woman is eating a pickle."
+  },
+  {
+    "time_sec": 23,
+    "description": "A woman is opening a jar of olives."
+  },
+  {
+    "time_sec": 24,
+    "description": "A woman is holding a jar of olives."
+  },
+  {
+    "time_sec": 25,
+    "description": "A woman is holding a jar of olives."
+  },
+  {
+    "time_sec": 26,
+    "description": "A woman is holding a jar of pickles."
+  },
+  {
+    "time_sec": 27,
+    "description": "A woman is holding a jar of olives."
+  },
+  {
+    "time_sec": 28,
+    "description": "A woman is sitting at a table with a jar of pickles in front of her."
+  },
+  {
+    "time_sec": 29,
+    "description": "A woman in a green hoodie is opening a jar of pickles."
+  },
+  {
+    "time_sec": 30,
+    "description": "A person is standing in a kitchen."
+  },
+  {
+    "time_sec": 31,
+    "description": "A person is standing in a kitchen."
+  },
+  {
+    "time_sec": 32,
+    "description": "A person is opening a jar of pickles."
+  }
+]

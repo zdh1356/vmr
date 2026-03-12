@@ -1,0 +1,126 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A person is climbing a wall."
+  },
+  {
+    "time_sec": 1,
+    "description": "A person is climbing up a wall."
+  },
+  {
+    "time_sec": 2,
+    "description": "A person is reaching up to open a door."
+  },
+  {
+    "time_sec": 3,
+    "description": "A person is bending over to reach something."
+  },
+  {
+    "time_sec": 4,
+    "description": "A person is bending over to look in a cabinet."
+  },
+  {
+    "time_sec": 5,
+    "description": "A person is reaching for a pink bag."
+  },
+  {
+    "time_sec": 6,
+    "description": "A person is holding a pink blanket."
+  },
+  {
+    "time_sec": 7,
+    "description": "A person is hanging a pink cloth on a wall."
+  },
+  {
+    "time_sec": 8,
+    "description": "A person is holding a towel and a pink blanket."
+  },
+  {
+    "time_sec": 9,
+    "description": "A person is hanging clothes on a hanger."
+  },
+  {
+    "time_sec": 10,
+    "description": "A person is holding a red towel."
+  },
+  {
+    "time_sec": 11,
+    "description": "A person is reaching up to hang a red cloth."
+  },
+  {
+    "time_sec": 12,
+    "description": "A person is holding a red item in their hand."
+  },
+  {
+    "time_sec": 13,
+    "description": "A person is putting a red towel into their pants."
+  },
+  {
+    "time_sec": 14,
+    "description": "A person is bending over to pick up a red bag."
+  },
+  {
+    "time_sec": 15,
+    "description": "A person is standing in front of a closet."
+  },
+  {
+    "time_sec": 16,
+    "description": "A person is walking with a bag on their shoulder."
+  },
+  {
+    "time_sec": 17,
+    "description": "A person is wearing pajamas."
+  },
+  {
+    "time_sec": 18,
+    "description": "A person is hugging another person."
+  },
+  {
+    "time_sec": 19,
+    "description": "A person is putting on a pair of pants."
+  },
+  {
+    "time_sec": 20,
+    "description": "A person is putting on pants."
+  },
+  {
+    "time_sec": 21,
+    "description": "A person is holding a broom."
+  },
+  {
+    "time_sec": 22,
+    "description": "A person is holding a blanket."
+  },
+  {
+    "time_sec": 23,
+    "description": "A person is holding a towel."
+  },
+  {
+    "time_sec": 24,
+    "description": "A person is putting on pants."
+  },
+  {
+    "time_sec": 25,
+    "description": "A person is holding a bag and a backpack."
+  },
+  {
+    "time_sec": 26,
+    "description": "A person is holding a blue bag."
+  },
+  {
+    "time_sec": 27,
+    "description": "A person is holding a blanket."
+  },
+  {
+    "time_sec": 28,
+    "description": "A person is pulling up their pants."
+  },
+  {
+    "time_sec": 29,
+    "description": "A person is hanging clothes in a closet."
+  },
+  {
+    "time_sec": 30,
+    "description": "A person is hanging clothes in a closet."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A person is sleeping on a chair."
+  },
+  {
+    "time_sec": 1,
+    "description": "A person is sleeping on a chair."
+  },
+  {
+    "time_sec": 2,
+    "description": "A person is sleeping on a chair."
+  },
+  {
+    "time_sec": 3,
+    "description": "A man is sitting at a table with a green blanket wrapped around him."
+  },
+  {
+    "time_sec": 4,
+    "description": "A man is sitting at a table, eating something."
+  },
+  {
+    "time_sec": 5,
+    "description": "A man wearing a green sweater is sitting at a table."
+  },
+  {
+    "time_sec": 6,
+    "description": "A man is sitting at a table with a green blanket wrapped around him."
+  },
+  {
+    "time_sec": 7,
+    "description": "A man is sitting at a table with a green blanket on him."
+  },
+  {
+    "time_sec": 8,
+    "description": "A man is sitting at a table and covering his mouth."
+  },
+  {
+    "time_sec": 9,
+    "description": "A man is sitting at a table and looking out the window."
+  },
+  {
+    "time_sec": 10,
+    "description": "A person is holding a bird in their hands."
+  },
+  {
+    "time_sec": 11,
+    "description": "A man is standing over a table."
+  },
+  {
+    "time_sec": 12,
+    "description": "A person is opening a window."
+  },
+  {
+    "time_sec": 13,
+    "description": "A person is looking out the window."
+  },
+  {
+    "time_sec": 14,
+    "description": "A man is looking out the window."
+  }
+]

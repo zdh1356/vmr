@@ -1,0 +1,66 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A man is putting something in the oven."
+  },
+  {
+    "time_sec": 1,
+    "description": "A man is reaching for something on the stove."
+  },
+  {
+    "time_sec": 2,
+    "description": "A man is cooking food on a stove."
+  },
+  {
+    "time_sec": 3,
+    "description": "A man is cooking food on a stove."
+  },
+  {
+    "time_sec": 4,
+    "description": "A man is cooking food on a stove."
+  },
+  {
+    "time_sec": 5,
+    "description": "A man is looking at his cell phone while standing in a kitchen."
+  },
+  {
+    "time_sec": 6,
+    "description": "A man is looking at his phone while standing in a kitchen."
+  },
+  {
+    "time_sec": 7,
+    "description": "A man is looking at his phone while standing in a kitchen."
+  },
+  {
+    "time_sec": 8,
+    "description": "A man is looking at his phone while standing in a kitchen."
+  },
+  {
+    "time_sec": 9,
+    "description": "A man is cooking on the stove."
+  },
+  {
+    "time_sec": 10,
+    "description": "A person is standing in a kitchen, looking at the stove."
+  },
+  {
+    "time_sec": 11,
+    "description": "A man is cooking in the kitchen."
+  },
+  {
+    "time_sec": 12,
+    "description": "A man is pouring a bottle of liquid into a glass."
+  },
+  {
+    "time_sec": 13,
+    "description": "A man is opening a refrigerator."
+  },
+  {
+    "time_sec": 14,
+    "description": "A person is opening a refrigerator."
+  },
+  {
+    "time_sec": 15,
+    "description": "A man is opening a refrigerator."
+  }
+]

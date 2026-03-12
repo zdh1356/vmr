@@ -1,0 +1,46 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A person is sitting in a chair."
+  },
+  {
+    "time_sec": 1,
+    "description": "A person is sitting in a chair."
+  },
+  {
+    "time_sec": 2,
+    "description": "A person is sitting in a chair."
+  },
+  {
+    "time_sec": 3,
+    "description": "A person is sitting in a room."
+  },
+  {
+    "time_sec": 4,
+    "description": "A person is sitting in a chair."
+  },
+  {
+    "time_sec": 5,
+    "description": "A man is standing in front of a blue curtain."
+  },
+  {
+    "time_sec": 6,
+    "description": "A man is playing a video game."
+  },
+  {
+    "time_sec": 7,
+    "description": "A man is playing a video game."
+  },
+  {
+    "time_sec": 8,
+    "description": "A man is looking at the ceiling."
+  },
+  {
+    "time_sec": 9,
+    "description": "A man is talking on a cell phone."
+  },
+  {
+    "time_sec": 10,
+    "description": "A man is playing a video game."
+  }
+]

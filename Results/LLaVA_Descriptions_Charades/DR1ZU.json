@@ -1,0 +1,58 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A person is standing in a doorway."
+  },
+  {
+    "time_sec": 1,
+    "description": "A person is standing on a staircase."
+  },
+  {
+    "time_sec": 2,
+    "description": "A person is standing on one leg."
+  },
+  {
+    "time_sec": 3,
+    "description": "A person is standing on a staircase."
+  },
+  {
+    "time_sec": 4,
+    "description": "A man is playing a video game."
+  },
+  {
+    "time_sec": 5,
+    "description": "A man is standing on a staircase."
+  },
+  {
+    "time_sec": 6,
+    "description": "A person is standing on a staircase."
+  },
+  {
+    "time_sec": 7,
+    "description": "A person is walking down a staircase."
+  },
+  {
+    "time_sec": 8,
+    "description": "A person is hanging over the stairs."
+  },
+  {
+    "time_sec": 9,
+    "description": "A person is walking down a staircase."
+  },
+  {
+    "time_sec": 10,
+    "description": "A person is walking down a staircase."
+  },
+  {
+    "time_sec": 11,
+    "description": "A person is standing on a staircase."
+  },
+  {
+    "time_sec": 12,
+    "description": "A man is standing in a hallway and reading a paper."
+  },
+  {
+    "time_sec": 13,
+    "description": "A person is holding a newspaper."
+  }
+]

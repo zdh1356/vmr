@@ -1,0 +1,27 @@
+[
+  {
+    "start": 0.0,
+    "end": 5.0,
+    "text": "1.5 kg gouda"
+  },
+  {
+    "start": 5.0,
+    "end": 10.0,
+    "text": "1 kg gouda"
+  },
+  {
+    "start": 10.0,
+    "end": 15.0,
+    "text": "1 kg gouda"
+  },
+  {
+    "start": 15.0,
+    "end": 20.0,
+    "text": "1 kg gouda"
+  },
+  {
+    "start": 20.0,
+    "end": 25.0,
+    "text": "1 kg gouda"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A man is holding a brown paper bag."
+  },
+  {
+    "time_sec": 1,
+    "description": "A person is holding a camera."
+  },
+  {
+    "time_sec": 2,
+    "description": "A man is looking at the camera."
+  },
+  {
+    "time_sec": 3,
+    "description": "A man is looking at the camera."
+  },
+  {
+    "time_sec": 4,
+    "description": "A man is looking at a camera."
+  },
+  {
+    "time_sec": 5,
+    "description": "A man is looking at something."
+  },
+  {
+    "time_sec": 6,
+    "description": "A man is looking at a camera."
+  },
+  {
+    "time_sec": 7,
+    "description": "A man is looking down at his nose."
+  },
+  {
+    "time_sec": 8,
+    "description": "A man is looking down at his hands."
+  },
+  {
+    "time_sec": 9,
+    "description": "A man is looking down at something."
+  },
+  {
+    "time_sec": 10,
+    "description": "A man is looking down."
+  },
+  {
+    "time_sec": 11,
+    "description": "A man is looking down at something."
+  },
+  {
+    "time_sec": 12,
+    "description": "A man is looking at the camera."
+  },
+  {
+    "time_sec": 13,
+    "description": "A man is looking down."
+  },
+  {
+    "time_sec": 14,
+    "description": "A man is looking at the camera."
+  },
+  {
+    "time_sec": 15,
+    "description": "A man is looking at a can."
+  },
+  {
+    "time_sec": 16,
+    "description": "A man is looking at a camera."
+  },
+  {
+    "time_sec": 17,
+    "description": "A man is looking up at the ceiling."
+  },
+  {
+    "time_sec": 18,
+    "description": "A man is looking at the camera."
+  },
+  {
+    "time_sec": 19,
+    "description": "A man is standing in a room."
+  },
+  {
+    "time_sec": 20,
+    "description": "A man is looking at the camera."
+  },
+  {
+    "time_sec": 21,
+    "description": "A man is looking at the camera."
+  },
+  {
+    "time_sec": 22,
+    "description": "A man is looking at a camera."
+  },
+  {
+    "time_sec": 23,
+    "description": "A person is lighting a fire."
+  },
+  {
+    "time_sec": 24,
+    "description": "A person is holding a camera."
+  },
+  {
+    "time_sec": 25,
+    "description": "A person is standing in front of a machine."
+  },
+  {
+    "time_sec": 26,
+    "description": "A person is standing in front of a wall."
+  },
+  {
+    "time_sec": 27,
+    "description": "A person is putting something into a machine."
+  },
+  {
+    "time_sec": 28,
+    "description": "A person is standing in front of a machine."
+  },
+  {
+    "time_sec": 29,
+    "description": "A man is looking at a camera."
+  },
+  {
+    "time_sec": 30,
+    "description": "A man is looking at a wall."
+  },
+  {
+    "time_sec": 31,
+    "description": "A man is looking at a knife."
+  },
+  {
+    "time_sec": 32,
+    "description": "A person is holding a cup."
+  }
+]

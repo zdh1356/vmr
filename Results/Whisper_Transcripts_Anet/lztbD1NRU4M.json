@@ -1,0 +1,32 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.0,
+    "text": "I'm going to have to do a big one."
+  },
+  {
+    "start": 5.0,
+    "end": 6.0,
+    "text": "Oh yeah?"
+  },
+  {
+    "start": 7.0,
+    "end": 8.0,
+    "text": "Who's coming in from back there?"
+  },
+  {
+    "start": 8.0,
+    "end": 9.0,
+    "text": "You okay?"
+  },
+  {
+    "start": 9.0,
+    "end": 10.0,
+    "text": "I'm okay."
+  },
+  {
+    "start": 20.0,
+    "end": 21.0,
+    "text": "Shut up."
+  }
+]

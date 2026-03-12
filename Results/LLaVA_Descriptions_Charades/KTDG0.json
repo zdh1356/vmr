@@ -1,0 +1,62 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A person is putting something in a drawer."
+  },
+  {
+    "time_sec": 1,
+    "description": "A man is brushing his teeth."
+  },
+  {
+    "time_sec": 2,
+    "description": "A person is holding a gun."
+  },
+  {
+    "time_sec": 3,
+    "description": "A person is holding a camera."
+  },
+  {
+    "time_sec": 4,
+    "description": "A person is holding a game controller."
+  },
+  {
+    "time_sec": 5,
+    "description": "A person is playing a video game."
+  },
+  {
+    "time_sec": 6,
+    "description": "A person is bending over and reaching into a drawer."
+  },
+  {
+    "time_sec": 7,
+    "description": "A person is standing on a desk."
+  },
+  {
+    "time_sec": 8,
+    "description": "A person is opening a closet door."
+  },
+  {
+    "time_sec": 9,
+    "description": "A person is opening a door."
+  },
+  {
+    "time_sec": 10,
+    "description": "A person is standing in front of a wall."
+  },
+  {
+    "time_sec": 11,
+    "description": "A person is standing on a wooden floor."
+  },
+  {
+    "time_sec": 12,
+    "description": "A person is bending over and putting on a hoodie."
+  },
+  {
+    "time_sec": 13,
+    "description": "A man is sitting down and holding a remote control."
+  },
+  {
+    "time_sec": 14,
+    "description": "A man is sitting on the floor with his arms outstretched."
+  }
+]

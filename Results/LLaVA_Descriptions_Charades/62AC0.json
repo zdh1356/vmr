@@ -1,0 +1,38 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A man is sitting in a chair and looking out the window."
+  },
+  {
+    "time_sec": 1,
+    "description": "A man is sitting at a desk with a laptop and a cup of coffee."
+  },
+  {
+    "time_sec": 2,
+    "description": "A man is sitting at a desk, looking out the window."
+  },
+  {
+    "time_sec": 3,
+    "description": "A man is sitting at a desk with a computer."
+  },
+  {
+    "time_sec": 4,
+    "description": "A woman is sitting at a desk with a laptop."
+  },
+  {
+    "time_sec": 5,
+    "description": "A man is drinking from a cup."
+  },
+  {
+    "time_sec": 6,
+    "description": "A man is sitting at a desk, drinking coffee."
+  },
+  {
+    "time_sec": 7,
+    "description": "A man is sitting at a desk and drinking from a cup."
+  },
+  {
+    "time_sec": 8,
+    "description": "A man is sitting at a desk and looking out the window."
+  }
+]

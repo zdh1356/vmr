@@ -1,0 +1,114 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A person is opening a door."
+  },
+  {
+    "time_sec": 1,
+    "description": "A person is opening a door."
+  },
+  {
+    "time_sec": 2,
+    "description": "A person is opening a door."
+  },
+  {
+    "time_sec": 3,
+    "description": "A person is opening a door."
+  },
+  {
+    "time_sec": 4,
+    "description": "A person is opening a cabinet door."
+  },
+  {
+    "time_sec": 5,
+    "description": "A man is holding a book in his hand."
+  },
+  {
+    "time_sec": 6,
+    "description": "A boy is holding a knife and opening a door."
+  },
+  {
+    "time_sec": 7,
+    "description": "A person is holding a remote control."
+  },
+  {
+    "time_sec": 8,
+    "description": "A person is holding a book."
+  },
+  {
+    "time_sec": 9,
+    "description": "A man is holding a book."
+  },
+  {
+    "time_sec": 10,
+    "description": "A man is holding a book."
+  },
+  {
+    "time_sec": 11,
+    "description": "A man is walking in a room."
+  },
+  {
+    "time_sec": 12,
+    "description": "A man is bending over to put on his shoes."
+  },
+  {
+    "time_sec": 13,
+    "description": "A person is holding a book in a bathroom."
+  },
+  {
+    "time_sec": 14,
+    "description": "A man is holding a book and a towel."
+  },
+  {
+    "time_sec": 15,
+    "description": "A man is holding a book."
+  },
+  {
+    "time_sec": 16,
+    "description": "A man is holding a book."
+  },
+  {
+    "time_sec": 17,
+    "description": "A man is holding a blue shirt."
+  },
+  {
+    "time_sec": 18,
+    "description": "A man is holding a blue shirt and a blue towel."
+  },
+  {
+    "time_sec": 19,
+    "description": "A man is putting on a blue shirt."
+  },
+  {
+    "time_sec": 20,
+    "description": "A man is smelling a blue shirt."
+  },
+  {
+    "time_sec": 21,
+    "description": "A man is holding a blue blanket and kicking it."
+  },
+  {
+    "time_sec": 22,
+    "description": "A man is putting on a blue jacket."
+  },
+  {
+    "time_sec": 23,
+    "description": "A person is putting on a blue jacket."
+  },
+  {
+    "time_sec": 24,
+    "description": "A man is putting on a blue jacket."
+  },
+  {
+    "time_sec": 25,
+    "description": "A man is taking a picture of himself in a mirror."
+  },
+  {
+    "time_sec": 26,
+    "description": "A man is standing in a bathroom and brushing his teeth."
+  },
+  {
+    "time_sec": 27,
+    "description": "A man is standing in a bathroom and putting on his sandals."
+  }
+]

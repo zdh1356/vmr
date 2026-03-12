@@ -1,0 +1,32 @@
+[
+  {
+    "start": 0.0,
+    "end": 3.0,
+    "text": "Sofia do you want an ice cream cone?"
+  },
+  {
+    "start": 3.0,
+    "end": 7.0,
+    "text": "You gonna say yes or you just gonna reach out for it?"
+  },
+  {
+    "start": 7.0,
+    "end": 8.0,
+    "text": "Yes."
+  },
+  {
+    "start": 8.0,
+    "end": 9.0,
+    "text": "Yes."
+  },
+  {
+    "start": 9.0,
+    "end": 12.0,
+    "text": "You gonna say thank you?"
+  },
+  {
+    "start": 12.0,
+    "end": 17.0,
+    "text": "You're welcome cheese face."
+  }
+]

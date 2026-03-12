@@ -1,0 +1,70 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A person is sitting at a table."
+  },
+  {
+    "time_sec": 1,
+    "description": "A person is sitting at a table."
+  },
+  {
+    "time_sec": 2,
+    "description": "A person is sitting at a table."
+  },
+  {
+    "time_sec": 3,
+    "description": "A person is walking in a room."
+  },
+  {
+    "time_sec": 4,
+    "description": "A person is walking down a staircase."
+  },
+  {
+    "time_sec": 5,
+    "description": "A person is bending over to look at something."
+  },
+  {
+    "time_sec": 6,
+    "description": "A person is kneeling down in front of a table."
+  },
+  {
+    "time_sec": 7,
+    "description": "A person is kneeling down in front of a shelf."
+  },
+  {
+    "time_sec": 8,
+    "description": "A person is kneeling down in front of a refrigerator."
+  },
+  {
+    "time_sec": 9,
+    "description": "A person is bending over in a kitchen."
+  },
+  {
+    "time_sec": 10,
+    "description": "A man is holding a drink in his hand."
+  },
+  {
+    "time_sec": 11,
+    "description": "A man in a blue hoodie is standing next to a table."
+  },
+  {
+    "time_sec": 12,
+    "description": "A person is pouring a drink into a glass."
+  },
+  {
+    "time_sec": 13,
+    "description": "A person is standing in a kitchen and holding a glass."
+  },
+  {
+    "time_sec": 14,
+    "description": "A man in a blue hoodie is pointing at a table."
+  },
+  {
+    "time_sec": 15,
+    "description": "A man in a blue jacket is pointing at a table."
+  },
+  {
+    "time_sec": 16,
+    "description": "A man is playing a video game."
+  }
+]

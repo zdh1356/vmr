@@ -1,0 +1,26 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A person is walking on a dirt road."
+  },
+  {
+    "time_sec": 2,
+    "description": "A man is standing on a dirt ground."
+  },
+  {
+    "time_sec": 4,
+    "description": "A person is being lifted off the ground by his friends."
+  },
+  {
+    "time_sec": 6,
+    "description": "A boy is being lifted by two other boys."
+  },
+  {
+    "time_sec": 8,
+    "description": "A boy is being lifted by his friends."
+  },
+  {
+    "time_sec": 10,
+    "description": "A person is grabbing another person's hair."
+  }
+]

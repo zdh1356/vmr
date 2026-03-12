@@ -1,0 +1,126 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A person is pointing at something."
+  },
+  {
+    "time_sec": 1,
+    "description": "A person is holding a cell phone."
+  },
+  {
+    "time_sec": 2,
+    "description": "A man is lifting a barbell."
+  },
+  {
+    "time_sec": 3,
+    "description": "A person is holding a piece of paper."
+  },
+  {
+    "time_sec": 4,
+    "description": "A man is looking at a cell phone."
+  },
+  {
+    "time_sec": 5,
+    "description": "A man is holding a cell phone."
+  },
+  {
+    "time_sec": 6,
+    "description": "A person is standing in a room."
+  },
+  {
+    "time_sec": 7,
+    "description": "A person is standing in a room."
+  },
+  {
+    "time_sec": 8,
+    "description": "A man is opening a refrigerator."
+  },
+  {
+    "time_sec": 9,
+    "description": "A man is holding a video game controller."
+  },
+  {
+    "time_sec": 10,
+    "description": "A man is using a laptop."
+  },
+  {
+    "time_sec": 11,
+    "description": "A man is using a computer."
+  },
+  {
+    "time_sec": 12,
+    "description": "A man is opening a refrigerator."
+  },
+  {
+    "time_sec": 13,
+    "description": "A person is standing in a room."
+  },
+  {
+    "time_sec": 14,
+    "description": "A man is talking on his cell phone."
+  },
+  {
+    "time_sec": 15,
+    "description": "A man is talking on his cell phone."
+  },
+  {
+    "time_sec": 16,
+    "description": "A man is holding a Wii remote and talking on a cell phone."
+  },
+  {
+    "time_sec": 17,
+    "description": "A man is talking on his cell phone."
+  },
+  {
+    "time_sec": 18,
+    "description": "A man is holding a cell phone to his ear."
+  },
+  {
+    "time_sec": 19,
+    "description": "A man is holding a cell phone and talking."
+  },
+  {
+    "time_sec": 20,
+    "description": "A man is talking on a cell phone."
+  },
+  {
+    "time_sec": 21,
+    "description": "A person is opening a door."
+  },
+  {
+    "time_sec": 22,
+    "description": "A man is opening a door."
+  },
+  {
+    "time_sec": 23,
+    "description": "A person is opening their mouth."
+  },
+  {
+    "time_sec": 24,
+    "description": "A person is holding a cell phone."
+  },
+  {
+    "time_sec": 25,
+    "description": "A person is pointing at something."
+  },
+  {
+    "time_sec": 26,
+    "description": "A person is pointing at a cabinet."
+  },
+  {
+    "time_sec": 27,
+    "description": "A person is standing in a room with a closet."
+  },
+  {
+    "time_sec": 28,
+    "description": "A person is standing in front of a closet."
+  },
+  {
+    "time_sec": 29,
+    "description": "A person is opening a cabinet door."
+  },
+  {
+    "time_sec": 30,
+    "description": "A person is hanging a purse on the wall."
+  }
+]

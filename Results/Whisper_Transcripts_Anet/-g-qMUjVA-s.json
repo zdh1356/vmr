@@ -1,0 +1,72 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.5,
+    "text": "Ha!"
+  },
+  {
+    "start": 5.0,
+    "end": 5.5,
+    "text": "Ha!"
+  },
+  {
+    "start": 7.0,
+    "end": 8.0,
+    "text": "Ha ha ha ha!"
+  },
+  {
+    "start": 8.0,
+    "end": 10.0,
+    "text": "Ha ha ha ha ha ha!"
+  },
+  {
+    "start": 10.0,
+    "end": 12.0,
+    "text": "Oh my word!"
+  },
+  {
+    "start": 17.0,
+    "end": 18.0,
+    "text": "Ha ha!"
+  },
+  {
+    "start": 18.0,
+    "end": 19.0,
+    "text": "He's got his teeth!"
+  },
+  {
+    "start": 26.0,
+    "end": 27.0,
+    "text": "Ha ha ha!"
+  },
+  {
+    "start": 30.0,
+    "end": 32.0,
+    "text": "You haven't just popped up!"
+  },
+  {
+    "start": 34.0,
+    "end": 36.0,
+    "text": "I'm taking video right now!"
+  },
+  {
+    "start": 44.0,
+    "end": 45.0,
+    "text": "Ha ha ha ha!"
+  },
+  {
+    "start": 45.0,
+    "end": 47.0,
+    "text": "You're being a little cheeky with me!"
+  },
+  {
+    "start": 50.0,
+    "end": 51.0,
+    "text": "Ha ha ha ha!"
+  },
+  {
+    "start": 60.0,
+    "end": 61.0,
+    "text": "Ha ha ha ha!"
+  }
+]

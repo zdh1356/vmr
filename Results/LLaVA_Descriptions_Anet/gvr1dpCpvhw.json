@@ -1,0 +1,442 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A person is preparing food on a table."
+  },
+  {
+    "time_sec": 2,
+    "description": "A woman is waving at the camera."
+  },
+  {
+    "time_sec": 4,
+    "description": "A woman is standing in front of a table with food on it."
+  },
+  {
+    "time_sec": 6,
+    "description": "A woman is putting something in her mouth."
+  },
+  {
+    "time_sec": 8,
+    "description": "A man and a woman are preparing food together."
+  },
+  {
+    "time_sec": 10,
+    "description": "A man and a woman are preparing food together."
+  },
+  {
+    "time_sec": 12,
+    "description": "A person is putting food in a dish."
+  },
+  {
+    "time_sec": 14,
+    "description": "A person is putting a cake in the oven."
+  },
+  {
+    "time_sec": 16,
+    "description": "A person is putting food in a dish."
+  },
+  {
+    "time_sec": 18,
+    "description": "A person has placed a vase of flowers on a table."
+  },
+  {
+    "time_sec": 20,
+    "description": "A person is placing a vase of flowers on a table."
+  },
+  {
+    "time_sec": 22,
+    "description": "A person is putting a carton of cream on a table."
+  },
+  {
+    "time_sec": 24,
+    "description": "A person is putting a carton of cream on the table."
+  },
+  {
+    "time_sec": 26,
+    "description": "A person is putting food in a basket."
+  },
+  {
+    "time_sec": 28,
+    "description": "A person is putting food in a basket."
+  },
+  {
+    "time_sec": 30,
+    "description": "A person is putting food in a bag."
+  },
+  {
+    "time_sec": 32,
+    "description": "A person is putting food in a bag."
+  },
+  {
+    "time_sec": 34,
+    "description": "A person is sitting at a table with a vase of flowers."
+  },
+  {
+    "time_sec": 36,
+    "description": "A person is pouring milk into a bowl."
+  },
+  {
+    "time_sec": 38,
+    "description": "A person is pouring milk into a bowl."
+  },
+  {
+    "time_sec": 40,
+    "description": "A person is pouring milk into a bowl."
+  },
+  {
+    "time_sec": 42,
+    "description": "A person is hanging upside down from a ceiling."
+  },
+  {
+    "time_sec": 44,
+    "description": "A person is stirring a bowl of food."
+  },
+  {
+    "time_sec": 46,
+    "description": "A person is mixing food in a bowl."
+  },
+  {
+    "time_sec": 48,
+    "description": "A person is preparing food on a table."
+  },
+  {
+    "time_sec": 50,
+    "description": "A person is mixing food in a bowl."
+  },
+  {
+    "time_sec": 52,
+    "description": "A person is standing in front of a mirror."
+  },
+  {
+    "time_sec": 54,
+    "description": "A person is cutting a mango into thin wedges."
+  },
+  {
+    "time_sec": 56,
+    "description": "A person is cutting a mango into thin wedges."
+  },
+  {
+    "time_sec": 58,
+    "description": "A person is cutting a piece of food on a cutting board."
+  },
+  {
+    "time_sec": 60,
+    "description": "A person is scooping food from a bowl."
+  },
+  {
+    "time_sec": 62,
+    "description": "A person is scooping food from a bowl."
+  },
+  {
+    "time_sec": 64,
+    "description": "A person is putting crackers in a glass pan."
+  },
+  {
+    "time_sec": 66,
+    "description": "A person is putting crackers in a glass pan."
+  },
+  {
+    "time_sec": 68,
+    "description": "A person is stirring a pot."
+  },
+  {
+    "time_sec": 70,
+    "description": "A person is putting crackers on a layer all."
+  },
+  {
+    "time_sec": 72,
+    "description": "A person is scooping cream into a bowl."
+  },
+  {
+    "time_sec": 74,
+    "description": "A person is putting crackers on a layer all."
+  },
+  {
+    "time_sec": 76,
+    "description": "A person is putting cream on crackers."
+  },
+  {
+    "time_sec": 78,
+    "description": "A person is scooping cream into a bowl."
+  },
+  {
+    "time_sec": 80,
+    "description": "A person is putting cream on the crackers."
+  },
+  {
+    "time_sec": 82,
+    "description": "A person is spreading butter on a piece of bread."
+  },
+  {
+    "time_sec": 84,
+    "description": "A person is cutting a cake."
+  },
+  {
+    "time_sec": 86,
+    "description": "A person is making cookies."
+  },
+  {
+    "time_sec": 88,
+    "description": "A person is cutting a cake."
+  },
+  {
+    "time_sec": 90,
+    "description": "A person is scooping food out of a pan."
+  },
+  {
+    "time_sec": 92,
+    "description": "A person is cutting a cracker in a pan."
+  },
+  {
+    "time_sec": 94,
+    "description": "A person is cutting a cake."
+  },
+  {
+    "time_sec": 96,
+    "description": "A person is cutting a cake."
+  },
+  {
+    "time_sec": 98,
+    "description": "A person is cutting a cake."
+  },
+  {
+    "time_sec": 100,
+    "description": "A person is putting a piece of food into a dish."
+  },
+  {
+    "time_sec": 102,
+    "description": "A person is putting food into a bowl."
+  },
+  {
+    "time_sec": 104,
+    "description": "A person is putting food on a plate."
+  },
+  {
+    "time_sec": 106,
+    "description": "A person is putting a layer of mangoes on a plate."
+  },
+  {
+    "time_sec": 108,
+    "description": "A person is preparing food in the kitchen."
+  },
+  {
+    "time_sec": 110,
+    "description": "A person is preparing food in a kitchen."
+  },
+  {
+    "time_sec": 112,
+    "description": "A person is preparing food on a table."
+  },
+  {
+    "time_sec": 114,
+    "description": "A person is preparing food on a table."
+  },
+  {
+    "time_sec": 116,
+    "description": "A person is preparing food on a table."
+  },
+  {
+    "time_sec": 118,
+    "description": "A person is preparing food on a table."
+  },
+  {
+    "time_sec": 120,
+    "description": "A person is cutting fruit in a bowl."
+  },
+  {
+    "time_sec": 122,
+    "description": "A person is preparing food on a table."
+  },
+  {
+    "time_sec": 124,
+    "description": "A person is cutting fruit on a cutting board."
+  },
+  {
+    "time_sec": 126,
+    "description": "A person is preparing food on a table."
+  },
+  {
+    "time_sec": 128,
+    "description": "A person is preparing food on a table."
+  },
+  {
+    "time_sec": 130,
+    "description": "A person is preparing food on a table."
+  },
+  {
+    "time_sec": 132,
+    "description": "A person is putting food into a pan."
+  },
+  {
+    "time_sec": 134,
+    "description": "A person is putting butter on a cake."
+  },
+  {
+    "time_sec": 136,
+    "description": "A person is scooping food out of a dish."
+  },
+  {
+    "time_sec": 138,
+    "description": "A person is holding a spatula over a dish."
+  },
+  {
+    "time_sec": 140,
+    "description": "A person is stirring food in a pan."
+  },
+  {
+    "time_sec": 142,
+    "description": "A person is scooping food out of a pan."
+  },
+  {
+    "time_sec": 144,
+    "description": "A person is putting a spoonful of food into a dish."
+  },
+  {
+    "time_sec": 146,
+    "description": "A person is putting food into a pan."
+  },
+  {
+    "time_sec": 148,
+    "description": "A person is putting food in a pan."
+  },
+  {
+    "time_sec": 150,
+    "description": "A person is putting food in a dish."
+  },
+  {
+    "time_sec": 152,
+    "description": "A person is cutting up a mango."
+  },
+  {
+    "time_sec": 154,
+    "description": "A person is putting food into a pan."
+  },
+  {
+    "time_sec": 156,
+    "description": "A person is putting food into a pan."
+  },
+  {
+    "time_sec": 158,
+    "description": "A person is putting food into a pan."
+  },
+  {
+    "time_sec": 160,
+    "description": "A person is putting fruit into a pan."
+  },
+  {
+    "time_sec": 162,
+    "description": "A person is putting food into a dish."
+  },
+  {
+    "time_sec": 164,
+    "description": "A person is putting fruit into a pan."
+  },
+  {
+    "time_sec": 166,
+    "description": "A person is holding a dish with food in it."
+  },
+  {
+    "time_sec": 168,
+    "description": "A person is holding a dish with fruit in it."
+  },
+  {
+    "time_sec": 170,
+    "description": "A person is holding a pan with food in it."
+  },
+  {
+    "time_sec": 172,
+    "description": "A person is putting food in a pan."
+  },
+  {
+    "time_sec": 174,
+    "description": "A person is cutting fruit."
+  },
+  {
+    "time_sec": 176,
+    "description": "A person is putting food in a pan."
+  },
+  {
+    "time_sec": 178,
+    "description": "A man is cutting a cake."
+  },
+  {
+    "time_sec": 180,
+    "description": "A man is holding a knife and cutting a cake."
+  },
+  {
+    "time_sec": 182,
+    "description": "A person is putting food on a plate."
+  },
+  {
+    "time_sec": 184,
+    "description": "A person is putting food on a plate."
+  },
+  {
+    "time_sec": 186,
+    "description": "A man is cutting a cake."
+  },
+  {
+    "time_sec": 188,
+    "description": "A person is holding a plate with a dessert on it."
+  },
+  {
+    "time_sec": 190,
+    "description": "A person is holding a plate with food on it."
+  },
+  {
+    "time_sec": 192,
+    "description": "A man is eating food."
+  },
+  {
+    "time_sec": 194,
+    "description": "A man is eating food."
+  },
+  {
+    "time_sec": 196,
+    "description": "A man is eating food."
+  },
+  {
+    "time_sec": 198,
+    "description": "A man is eating food."
+  },
+  {
+    "time_sec": 200,
+    "description": "A man is eating food."
+  },
+  {
+    "time_sec": 202,
+    "description": "A man is sitting at a table with a woman."
+  },
+  {
+    "time_sec": 204,
+    "description": "A man is sitting at a table with a woman."
+  },
+  {
+    "time_sec": 206,
+    "description": "A man is smiling at the camera."
+  },
+  {
+    "time_sec": 208,
+    "description": "A person is watching something."
+  },
+  {
+    "time_sec": 210,
+    "description": "A chef is preparing food."
+  },
+  {
+    "time_sec": 212,
+    "description": "A director is directing a taste tester."
+  },
+  {
+    "time_sec": 214,
+    "description": "A person is standing in front of a purple background."
+  },
+  {
+    "time_sec": 216,
+    "description": "A person is standing in front of a black background."
+  },
+  {
+    "time_sec": 218,
+    "description": "A person is standing in front of a black background."
+  }
+]

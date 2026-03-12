@@ -1,0 +1,42 @@
+[
+  {
+    "start": 0.22,
+    "end": 2.62,
+    "text": "I'm here on top!"
+  },
+  {
+    "start": 24.7,
+    "end": 26.32,
+    "text": "Oh the bunker!"
+  },
+  {
+    "start": 26.32,
+    "end": 33.32,
+    "text": "Keep going, keep going!"
+  },
+  {
+    "start": 33.32,
+    "end": 34.32,
+    "text": "Look back!"
+  },
+  {
+    "start": 34.32,
+    "end": 35.32,
+    "text": "I went down the back!"
+  },
+  {
+    "start": 35.32,
+    "end": 36.32,
+    "text": "No!"
+  },
+  {
+    "start": 36.32,
+    "end": 37.32,
+    "text": "I went down the back!"
+  },
+  {
+    "start": 37.32,
+    "end": 38.32,
+    "text": "No!"
+  }
+]

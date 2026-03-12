@@ -1,0 +1,66 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A person is sitting at a table with their head down."
+  },
+  {
+    "time_sec": 1,
+    "description": "A person is sitting in a chair and sleeping."
+  },
+  {
+    "time_sec": 2,
+    "description": "A person is sitting at a table with their head down."
+  },
+  {
+    "time_sec": 3,
+    "description": "A man is sitting at a table with a bag of groceries."
+  },
+  {
+    "time_sec": 4,
+    "description": "A man is sitting at a table with a bag of chips."
+  },
+  {
+    "time_sec": 5,
+    "description": "A man is sitting at a table and holding a bag."
+  },
+  {
+    "time_sec": 6,
+    "description": "A man is sitting at a table with a red jacket on."
+  },
+  {
+    "time_sec": 7,
+    "description": "A man is sitting at a table with a bottle of wine and a book."
+  },
+  {
+    "time_sec": 8,
+    "description": "A man is sitting at a table with a dog on his lap."
+  },
+  {
+    "time_sec": 9,
+    "description": "A man is sitting at a table with a stuffed animal on it."
+  },
+  {
+    "time_sec": 10,
+    "description": "A man is sitting at a table with a bag on it."
+  },
+  {
+    "time_sec": 11,
+    "description": "A man is sitting at a table with a bag on it."
+  },
+  {
+    "time_sec": 12,
+    "description": "A person is sitting at a table."
+  },
+  {
+    "time_sec": 13,
+    "description": "A man is sitting on a chair in front of a table."
+  },
+  {
+    "time_sec": 14,
+    "description": "A person is sitting on a chair in a kitchen."
+  },
+  {
+    "time_sec": 15,
+    "description": "A person is standing on a chair."
+  }
+]

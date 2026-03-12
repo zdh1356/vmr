@@ -1,0 +1,32 @@
+[
+  {
+    "start": 0.0,
+    "end": 4.0,
+    "text": "1 kg of beef"
+  },
+  {
+    "start": 4.0,
+    "end": 8.0,
+    "text": "1 kg of pork"
+  },
+  {
+    "start": 8.0,
+    "end": 12.0,
+    "text": "1 kg of chicken"
+  },
+  {
+    "start": 12.0,
+    "end": 16.0,
+    "text": "1 kg of chicken"
+  },
+  {
+    "start": 16.0,
+    "end": 20.0,
+    "text": "1 kg of beef"
+  },
+  {
+    "start": 20.0,
+    "end": 24.0,
+    "text": "1 kg of pork"
+  }
+]

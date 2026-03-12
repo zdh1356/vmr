@@ -1,0 +1,62 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A person is opening a door."
+  },
+  {
+    "time_sec": 1,
+    "description": "A person is opening a door."
+  },
+  {
+    "time_sec": 2,
+    "description": "A person is opening a door."
+  },
+  {
+    "time_sec": 3,
+    "description": "A person is opening a door."
+  },
+  {
+    "time_sec": 4,
+    "description": "A person is opening a door."
+  },
+  {
+    "time_sec": 5,
+    "description": "A man is walking into a room."
+  },
+  {
+    "time_sec": 6,
+    "description": "A man drinking a cup of coffee."
+  },
+  {
+    "time_sec": 7,
+    "description": "A man is drinking from a cup."
+  },
+  {
+    "time_sec": 8,
+    "description": "A man with long hair is looking at the camera."
+  },
+  {
+    "time_sec": 9,
+    "description": "A man is looking at the camera."
+  },
+  {
+    "time_sec": 10,
+    "description": "A woman is looking at her reflection in the mirror."
+  },
+  {
+    "time_sec": 11,
+    "description": "A man is holding a cup of coffee."
+  },
+  {
+    "time_sec": 12,
+    "description": "A man is holding a cup of coffee."
+  },
+  {
+    "time_sec": 13,
+    "description": "A man is holding a cup in front of a mirror."
+  },
+  {
+    "time_sec": 14,
+    "description": "A man is holding a cup of coffee."
+  }
+]

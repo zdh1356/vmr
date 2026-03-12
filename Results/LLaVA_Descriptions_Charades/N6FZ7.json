@@ -1,0 +1,78 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A person is sitting on a chair in a room."
+  },
+  {
+    "time_sec": 1,
+    "description": "A person is sitting on a chair in a room."
+  },
+  {
+    "time_sec": 2,
+    "description": "A person is walking into the room."
+  },
+  {
+    "time_sec": 3,
+    "description": "A man is walking into a room."
+  },
+  {
+    "time_sec": 4,
+    "description": "A person is cleaning a table."
+  },
+  {
+    "time_sec": 5,
+    "description": "A man is standing on a board game table."
+  },
+  {
+    "time_sec": 6,
+    "description": "A man is holding a green blanket."
+  },
+  {
+    "time_sec": 7,
+    "description": "A man is holding a green blanket."
+  },
+  {
+    "time_sec": 8,
+    "description": "A man is holding a green blanket."
+  },
+  {
+    "time_sec": 9,
+    "description": "A man is bending over to pick up a blanket."
+  },
+  {
+    "time_sec": 10,
+    "description": "A man is holding a green object and placing it on a table."
+  },
+  {
+    "time_sec": 11,
+    "description": "A man is cleaning a table."
+  },
+  {
+    "time_sec": 12,
+    "description": "A man is walking across a room."
+  },
+  {
+    "time_sec": 13,
+    "description": "A man is walking across a room."
+  },
+  {
+    "time_sec": 14,
+    "description": "A man is standing in a living room."
+  },
+  {
+    "time_sec": 15,
+    "description": "A man is bending over to pick up a package."
+  },
+  {
+    "time_sec": 16,
+    "description": "A man is standing in a living room."
+  },
+  {
+    "time_sec": 17,
+    "description": "A man is playing with a blue and yellow kite in a room."
+  },
+  {
+    "time_sec": 18,
+    "description": "A man is vacuuming the floor."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "start": 0.0,
+    "end": 4.0,
+    "text": "Are you ready?"
+  },
+  {
+    "start": 4.0,
+    "end": 6.0,
+    "text": "Weeeee!"
+  },
+  {
+    "start": 6.0,
+    "end": 8.0,
+    "text": "Weeeeee!"
+  },
+  {
+    "start": 8.0,
+    "end": 10.0,
+    "text": "Weeeeee!"
+  },
+  {
+    "start": 10.0,
+    "end": 12.0,
+    "text": "Weeeeee!"
+  },
+  {
+    "start": 12.0,
+    "end": 14.0,
+    "text": "She needs to go home now."
+  }
+]

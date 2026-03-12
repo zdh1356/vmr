@@ -1,0 +1,42 @@
+[
+  {
+    "start": 0.0,
+    "end": 10.0,
+    "text": "Kjøkkenet er en av de fleste kjøkkenene i Sverige."
+  },
+  {
+    "start": 10.0,
+    "end": 20.0,
+    "text": "Kjøkkenet er en av de fleste kjøkkenene i Sverige."
+  },
+  {
+    "start": 20.0,
+    "end": 30.0,
+    "text": "Kjøkkenet er en av de fleste kjøkkenene i Sverige."
+  },
+  {
+    "start": 30.0,
+    "end": 39.08,
+    "text": "Rekordavisen"
+  },
+  {
+    "start": 39.08,
+    "end": 42.04,
+    "text": "Rekordavisen"
+  },
+  {
+    "start": 42.04,
+    "end": 47.04,
+    "text": "Rekordavisen"
+  },
+  {
+    "start": 47.04,
+    "end": 49.04,
+    "text": "Rekordavisen"
+  },
+  {
+    "start": 49.04,
+    "end": 49.98,
+    "text": "Rekordavisen"
+  }
+]

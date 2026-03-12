@@ -1,0 +1,32 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.0,
+    "text": "Wow."
+  },
+  {
+    "start": 2.0,
+    "end": 4.0,
+    "text": "I'd like to see you talk about it."
+  },
+  {
+    "start": 4.0,
+    "end": 6.0,
+    "text": "Oh my god."
+  },
+  {
+    "start": 6.0,
+    "end": 8.0,
+    "text": "What the fuck is that?"
+  },
+  {
+    "start": 8.0,
+    "end": 10.0,
+    "text": "That's my dad, my mom."
+  },
+  {
+    "start": 10.0,
+    "end": 12.0,
+    "text": "That arrow was for my dad."
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "start": 0.0,
+    "end": 10.1,
+    "text": "what"
+  },
+  {
+    "start": 15.12,
+    "end": 19.7,
+    "text": "you"
+  },
+  {
+    "start": 19.7,
+    "end": 28.3,
+    "text": "want"
+  },
+  {
+    "start": 28.3,
+    "end": 58.28,
+    "text": "Thank you."
+  }
+]

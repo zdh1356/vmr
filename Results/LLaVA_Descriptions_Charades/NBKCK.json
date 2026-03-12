@@ -1,0 +1,38 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A person is holding a remote control."
+  },
+  {
+    "time_sec": 1,
+    "description": "A person is holding a remote control."
+  },
+  {
+    "time_sec": 2,
+    "description": "A person is holding a remote control."
+  },
+  {
+    "time_sec": 3,
+    "description": "A person is opening a drawer."
+  },
+  {
+    "time_sec": 4,
+    "description": "A person is standing in a room."
+  },
+  {
+    "time_sec": 5,
+    "description": "A man is opening a drawer in a kitchen."
+  },
+  {
+    "time_sec": 6,
+    "description": "A person is opening a drawer."
+  },
+  {
+    "time_sec": 7,
+    "description": "A man is standing in front of a mirror."
+  },
+  {
+    "time_sec": 8,
+    "description": "A person is standing in a closet."
+  }
+]

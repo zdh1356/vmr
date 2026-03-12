@@ -1,0 +1,54 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A person is holding a laptop."
+  },
+  {
+    "time_sec": 1,
+    "description": "A person is holding a laptop computer."
+  },
+  {
+    "time_sec": 2,
+    "description": "A person is holding a cell phone in front of a mirror."
+  },
+  {
+    "time_sec": 3,
+    "description": "A person is walking into a room."
+  },
+  {
+    "time_sec": 4,
+    "description": "A person is holding a Wii remote."
+  },
+  {
+    "time_sec": 5,
+    "description": "A man is swinging a bag in a closet."
+  },
+  {
+    "time_sec": 6,
+    "description": "A person is opening a closet door."
+  },
+  {
+    "time_sec": 7,
+    "description": "A man is holding a remote control."
+  },
+  {
+    "time_sec": 8,
+    "description": "A man is opening a drawer in a closet."
+  },
+  {
+    "time_sec": 9,
+    "description": "A person is holding a cup."
+  },
+  {
+    "time_sec": 10,
+    "description": "A man is standing in a room."
+  },
+  {
+    "time_sec": 11,
+    "description": "A person is standing in a room."
+  },
+  {
+    "time_sec": 12,
+    "description": "A person is standing in a closet."
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "time_sec": 0,
+    "description": "A woman is vacuuming the floor."
+  },
+  {
+    "time_sec": 1,
+    "description": "A woman is vacuuming the floor."
+  },
+  {
+    "time_sec": 2,
+    "description": "A woman is playing a video game using a Wii remote."
+  },
+  {
+    "time_sec": 3,
+    "description": "A woman is cleaning the floor of her kitchen."
+  },
+  {
+    "time_sec": 4,
+    "description": "A woman is cleaning the floor with a mop."
+  },
+  {
+    "time_sec": 5,
+    "description": "A woman is bending over to pick up a frisbee."
+  },
+  {
+    "time_sec": 6,
+    "description": "A woman is cleaning the floor with a broom."
+  },
+  {
+    "time_sec": 7,
+    "description": "A woman is bending over to pick up a red object."
+  },
+  {
+    "time_sec": 8,
+    "description": "A woman is cleaning the floor."
+  },
+  {
+    "time_sec": 9,
+    "description": "A woman is sweeping the floor."
+  },
+  {
+    "time_sec": 10,
+    "description": "A woman is playing a video game."
+  },
+  {
+    "time_sec": 11,
+    "description": "A person is bending over to get something out of a refrigerator."
+  },
+  {
+    "time_sec": 12,
+    "description": "A woman is cleaning the floor."
+  },
+  {
+    "time_sec": 13,
+    "description": "A woman is cleaning the kitchen counter."
+  },
+  {
+    "time_sec": 14,
+    "description": "A woman is cleaning the kitchen floor."
+  },
+  {
+    "time_sec": 15,
+    "description": "A woman is vacuuming the floor."
+  },
+  {
+    "time_sec": 16,
+    "description": "A woman is vacuuming the floor."
+  },
+  {
+    "time_sec": 17,
+    "description": "A woman is cleaning the floor with a broom."
+  },
+  {
+    "time_sec": 18,
+    "description": "A woman is cleaning the floor with a red mop."
+  },
+  {
+    "time_sec": 19,
+    "description": "A woman is vacuuming the floor."
+  },
+  {
+    "time_sec": 20,
+    "description": "A woman is bending over to get something out of a refrigerator."
+  },
+  {
+    "time_sec": 21,
+    "description": "A woman is walking in the kitchen."
+  },
+  {
+    "time_sec": 22,
+    "description": "A woman is walking past a refrigerator."
+  },
+  {
+    "time_sec": 23,
+    "description": "A woman is walking in a room."
+  },
+  {
+    "time_sec": 24,
+    "description": "A woman is opening the door to a room."
+  },
+  {
+    "time_sec": 25,
+    "description": "A woman is opening the refrigerator door."
+  },
+  {
+    "time_sec": 26,
+    "description": "A man is sitting on a couch in a living room."
+  }
+]

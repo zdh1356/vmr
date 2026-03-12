@@ -1,0 +1,67 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.0,
+    "text": "Hello!"
+  },
+  {
+    "start": 2.0,
+    "end": 5.0,
+    "text": "Today I will show you how to make a"
+  },
+  {
+    "start": 5.0,
+    "end": 8.0,
+    "text": "delicious and easy-to-make"
+  },
+  {
+    "start": 8.0,
+    "end": 10.0,
+    "text": "chicken breast"
+  },
+  {
+    "start": 10.0,
+    "end": 12.0,
+    "text": "with a simple recipe."
+  },
+  {
+    "start": 12.0,
+    "end": 14.0,
+    "text": "I will show you how to make"
+  },
+  {
+    "start": 14.0,
+    "end": 16.0,
+    "text": "a delicious and easy-to-make"
+  },
+  {
+    "start": 16.0,
+    "end": 18.0,
+    "text": "chicken breast with a simple recipe."
+  },
+  {
+    "start": 18.0,
+    "end": 20.0,
+    "text": "First, I will make a chicken breast."
+  },
+  {
+    "start": 20.0,
+    "end": 22.0,
+    "text": "I will use a chicken breast"
+  },
+  {
+    "start": 22.0,
+    "end": 24.0,
+    "text": "that is about 1.5 kg."
+  },
+  {
+    "start": 24.0,
+    "end": 26.0,
+    "text": "I will cut the chicken breast into small pieces"
+  },
+  {
+    "start": 26.0,
+    "end": 28.0,
+    "text": "and then I will cut the chicken breast"
+  }
+]
